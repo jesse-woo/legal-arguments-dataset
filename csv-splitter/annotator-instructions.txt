@@ -18,19 +18,168 @@ drag and expand the column width for columns B (table of contents) and D.
 
 For each row (2 - 20), do the following tasks: 
 
-(0) Confirm that this the ToC has been extracted properly
+(0) Confirm that the ToC and Conclusion have been extracted properly
 - Write exactly one of [True, False]
 
 (1) Extract the arguments and paste them in this form
-- [Detailed Instruction]
+- Leave out portions of the table of contents that do not relate to the argument, 
+such as Table of Authorities.
+- Also leave out excess periods, formatting markers, and numbers indicating the page.
+- Maintain the markers that indicate the structure of arguments and sub-arguments, 
+e.g. Roman numerals and capital letters. 
+- Maintain a line break between each argument.
 
 (2) Classify the outcome of the brief. We will provide some examples for all of you. 
 - Write exactly one of [Affirm, Reverse, Remand, Grant, Deny, Other]. Use 'Other'
 if you are not sure, or if there is substantial amiguity. 
-- [Detailed Instruction about outcomes]
-- [Examples]
+- In general, the outcome that each brief is arguing for should be explicitly stated in the conclusion.
+So start by looking for one of the terms within the text of the conclusion.
+- Affirm means to agree with the lower court, and maintain that court's decision.
+- Reverse means to disagree with the lower court, and to change the outcome of thair decision in some way.
+- Remand means to send the decision back down to the lower court with further instructions, often to flesh out
+some issue of importance.
+- Grant means to give the requesting party what they are asking for in the law.
+- Deny means the opposite, to deny the requesting party the thing they are asking for.
+- See the example below
 
 (3) Rate the salience of the reasoning behind the conclusion based on the table of contents
 In other words, is the logic of the outcome clear from solely the table of contents?
 - [Detailed Instruction] Use a scale of 1-5, where 1 is Not Clear At All, and 5 is 
 Extremely Clear
+- 
+
+The following is an example of the tasks and the expected outcomes:
+
+Table of Contents .................................................  
+i 
+Table of Authorities .............................................  
+ii 
+Interests of Amici Curiae ....................................  
+1 
+Summary of the Argument ..................................  
+3 
+Argument .............................................................  
+5 
+I.      Plaintiff obtained insurance based on fraud or 
+mistatement of a material fact................
+5
+A.  When Plaintiff applied for insurance for his car, 
+his statement written to the insurance agent representing 
+Defendant stated that he had never had his 
+insurance cancelled or refused............
+5
+B.  Prior to this, another insurance agent for the Defendant, 
+Mr. Lilly, had refused to write an insuranc policy for the 
+Plaintiff because Plaintiff had previously had an 
+insurance policy cancelled................
+7
+II.     Plaintiff's prior insurance history was a material 
+fact because it would have impacted Plaintiff's insurance 
+rate or even his ability to obtain insurance..
+10
+III.    Plaintiff failes to state a claim of waiver or 
+estoppel......................................
+15
+A.  Defendant timely cancelled Plaintiff's insurance 
+upon learning that he had submitted false statements
+20
+B.  Timely cancellation of the policy negates 
+any claim of waiver or estoppel..........
+26
+IV. In the absence of pleadings or proof of waiver 
+or estoppel, a fraudulent or false statement 
+of a material fact by an insurance applicant 
+on their application is sufficient to defeat 
+recovery of the applicant's insurance claim...
+29
+Conclusion .......................................................
+35
+
+CONCLUSION:
+Plaintiff's false statement that he had not previously had his insurance canceled or refused 
+was sufficient to defeat his claim, and Defendant's motion for a directed verdict should have been 
+granted on these grounds. The lower court should be reversed.
+
+Task (0) Confirm that the ToC and Conclusion have been extracted properly
+Response: True
+
+Task (1) Extract the arguments and paste them in this form
+Response:
+I. Plaintiff obtained insurance based on fraud or mistatement of a material fact.
+
+A. When Plaintiff applied for insurance for his car, his statement written to the insurance agent representing Defendant stated that he had never had his insurance cancelled or refused.
+
+B. Prior to this, another insurance agent for the Defendant, Mr. Lilly had refused to write an insuranc policy for the Plaintiff because Plaintiff had previously had an insurance policy cancelled.
+
+II. Plaintiff's prior insurance history was a material fact because it would have impacted Plaintiff's insurance rate or even his ability to obtain insurance.
+
+III.Defendant timely cancelled Plaintiff's insurance upon learning that he had submitted false statements
+
+A. Timely cancellation of the policy negates any claim of waiver or estoppel.
+
+IV. In the absence of pleadings or proof of waiver or estoppel, a fraudulent or false statement of a material fact by an insurance applicant on their application is sufficient to defeat recovery of the applicant's insurance claim.
+
+Task (2) Classify the outcome of the brief
+Response: Reverse
+
+Task (3) Rate the salience of the reasoning behind the conclusion based on the table of contents
+Response: 5
+
+Researcher's note: In this example, there is a clear link in each step of the reasoning, and the
+conclusion follows directly from arguments in the ToC. Therefore we would rate the salience as
+a 5, for Extremely High
+
+Another Example:
+
+TABLE OF CONTENTS 
+ 
+TABLE OF AUTHORITIES ....................................... ii 
+STATEMENT OF INTEREST OF AMICUS CURIAE
+ ..................................................................................... 1 
+SUMMARY OF ARGUMENT .................................... 1 
+ARGUMENT ............................................................... 4 
+I. 
+This Case is Like Toolson v. New York Yankees, 
+Inc., 346 U.S. 356 (1953) ...................................... 4 
+A. The Baseball Cases: Federal Baseball and 
+Toolson ........................................................... 4 
+B. The College Sports Cases: Board of Regents 
+and Alston ...................................................... 6 
+II. Toolson Has Had Disastrous Consequences for 
+Hundreds of Thousands of American Workers ... 8 
+III.  The Court Need Not Reprise Toolson ............... 11 
+CONCLUSION .......................................................... 12 
+
+CONCLUSION:
+The Court should learn from its mistake in Toolson 
+and deny Petitioners their requested relief. 
+Respectfully submitted,
+
+Task (0) Confirm that the ToC and Conclusion have been extracted properly
+Response: True
+
+Task (1) Extract the arguments and paste them in this form
+Response: 
+I. This Case is Like Toolson v. New York Yankees, 
+Inc., 346 U.S. 356 (1953)
+
+A. The Baseball Cases: Federal Baseball and 
+Toolson
+
+B. The College Sports Cases: Board of Regents 
+and Alston
+
+II. Toolson Has Had Disastrous Consequences for 
+Hundreds of Thousands of American Workers
+
+III.  The Court Need Not Reprise Toolson
+
+Task (2) Classify the outcome of the brief
+Response: Deny
+
+Task (3) Rate the salience of the reasoning behind the conclusion based on the table of contents
+Response: 2
+
+Researcher's Note: Here, while the reasoning is laid out in clear steps and the conclusion 
+does follow somewhat from these steps, there is little detail and the reasoning 
+steps are rather disconnected. Therefore we would rate this as a 2, for low salience. 

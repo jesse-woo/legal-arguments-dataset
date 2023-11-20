@@ -12,12 +12,12 @@ II. Plaintiff's prior insurance history was a material fact because it would hav
 
 III.Defendant timely cancelled Plaintiff's insurance upon learning that he had submitted false statements
 
-A. Timely cancellation of the policy contradicts any claim of waiver or estoppel.
+A. Timely cancellation of the policy negates any claim of waiver or estoppel.
 
 IV. In the absence of pleadings or proof of waiver or estoppel, a fraudulent or false statement of a material fact by an insurance applicant on their application is sufficient to defeat recovery of the applicant's insurance claim.
 
 CONCLUSION:
-Plaintiff's false statement that he had not previously had his insurance canceled or refused was sufficient to defeat his claim, and Defendant's motion for a directed verdict should be granted on these grounds. The lower court should be reversed.
+Plaintiff's false statement that he had not previously had his insurance canceled or refused was sufficient to defeat his claim, and Defendant's motion for a directed verdict should have been granted on these grounds. The lower court should be reversed.
 
 OUTCOME:
 Reverse
