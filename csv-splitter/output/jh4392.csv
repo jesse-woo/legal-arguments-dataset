@@ -1,4 +1,4 @@
-Filing Name,Extracted Table of Contents,URL,Conclusion,proper_extraction,classification,salience-rating,annotator-uni
+Filing Name,Extracted Table of Contents,Extracted Arguments from ToC,URL,Conclusion,proper_extraction,classification,salience-rating,annotator-uni
 scotus_filing_37182,"TABLE OF CONTENTS 
 Page 
 Table of Contents ......................................................... i 
@@ -73,7 +73,7 @@ Conclusion ................................................................. 25
   
 (iii) 
  
-T",http://www.supremecourt.gov/DocketPDF/19/19-251/170401/20210301130854508_19-251%2019-255%20AFPF%20TMLC%20v%20Becerra%20NCLA%20amicus%20brief.pdf,"CONCLUSION 
+T",,http://www.supremecourt.gov/DocketPDF/19/19-251/170401/20210301130854508_19-251%2019-255%20AFPF%20TMLC%20v%20Becerra%20NCLA%20amicus%20brief.pdf,"CONCLUSION 
 This Court should reverse the Ninth Circuit 
 because it misapplied this Court’s long-standing civil 
 rights precedent first articulated by NAACP v. 
@@ -131,7 +131,7 @@ CONCLUSION .......................................................... 28
  
 ii 
  
-",http://www.supremecourt.gov/DocketPDF/19/19-251/170467/20210301143138352_19-251%20Americans%20for%20Prosperity%20v%20Becerra%20Amici%20Curiae%20Brief.pdf,"CONCLUSION 
+",,http://www.supremecourt.gov/DocketPDF/19/19-251/170467/20210301143138352_19-251%20Americans%20for%20Prosperity%20v%20Becerra%20Amici%20Curiae%20Brief.pdf,"CONCLUSION 
  
 The Court should reverse the judgment below. 
 Respectfully Submitted, 
@@ -232,7 +232,7 @@ CONCLUSION .......................................................... 35
  
 iii 
  
-",http://www.supremecourt.gov/DocketPDF/19/19-251/170552/20210301163304568_19-251%20and%2019-255%20Amicus%20Brief%20Legacy%20Foundation.pdf,"CONCLUSION  
+",,http://www.supremecourt.gov/DocketPDF/19/19-251/170552/20210301163304568_19-251%20and%2019-255%20Amicus%20Brief%20Legacy%20Foundation.pdf,"CONCLUSION  
  
 This Court has held that compelled disclosure can 
 violate associational rights guaranteed under the 
@@ -276,7 +276,7 @@ Severe ............................................................. 7
 CONCLUSION ............................................................ 8 
  
 ii 
-",http://www.supremecourt.gov/DocketPDF/19/19-251/170569/20210301165759643_19-251%20-255%20tsac%20Arizona.pdf,"CONCLUSION 
+",,http://www.supremecourt.gov/DocketPDF/19/19-251/170569/20210301165759643_19-251%20-255%20tsac%20Arizona.pdf,"CONCLUSION 
 California’s compelled disclosure requirement is 
 unnecessary to serve any legitimate law enforcement 
 purpose, as 47 other states and the District of 
@@ -309,7 +309,7 @@ CONCLUSION .......................................................... 22
  
  
 iii 
-",http://www.supremecourt.gov/DocketPDF/19/19-251/170598/20210301174346978_19-251%20-255%20tsac%20Protect%20the%201st%20and%20Pacific%20Research%20Institute.pdf,"CONCLUSION 
+",,http://www.supremecourt.gov/DocketPDF/19/19-251/170598/20210301174346978_19-251%20-255%20tsac%20Protect%20the%201st%20and%20Pacific%20Research%20Institute.pdf,"CONCLUSION 
  
 The Ninth Circuit’s decision seriously undermines 
 the rights of speech and association. Considering the 
@@ -388,7 +388,7 @@ CONCLUSION .....................................................  25
  
 ii 
  
-",http://www.supremecourt.gov/DocketPDF/19/19-251/170342/20210301113245997_Brief%20of%20Amicus%20Curiae%20Institute%20for%20Justice%20in%20Support%20of%20Petitioners.pdf,"CONCLUSION 
+",,http://www.supremecourt.gov/DocketPDF/19/19-251/170342/20210301113245997_Brief%20of%20Amicus%20Curiae%20Institute%20for%20Justice%20in%20Support%20of%20Petitioners.pdf,"CONCLUSION 
  
 For the reasons stated above, this Court should 
 now clarify that strict scrutiny remains the proper test 
@@ -434,7 +434,7 @@ CHILLING EFFECT OF CALIFORNIA’S POLICY .... 17
 CONCLUSION .......................................................... 20 
 APPENDIX ............................................................... 21 
 ii 
-",http://www.supremecourt.gov/DocketPDF/19/19-251/170548/20210301162005635_Buckeye%20Main%20Document%20E%20FILE%20Mar%201%202021.pdf,"CONCLUSION 
+",,http://www.supremecourt.gov/DocketPDF/19/19-251/170548/20210301162005635_Buckeye%20Main%20Document%20E%20FILE%20Mar%201%202021.pdf,"CONCLUSION 
 For the reasons stated above, the decision of the 
 United States Court of Appeals for Ninth Circuit 
 should be reversed. 
@@ -479,7 +479,7 @@ plied exemption on this record ........................... 47
 Conclusion .................................................................. 54 
  
 iii 
-",http://www.supremecourt.gov/DocketPDF/19/19-251/172982/20210325141442657_19%20251%2019%20255%20Brief%20on%20the%20Merits.pdf,"CONCLUSION 
+",,http://www.supremecourt.gov/DocketPDF/19/19-251/172982/20210325141442657_19%20251%2019%20255%20Brief%20on%20the%20Merits.pdf,"CONCLUSION 
 The judgment of the court of appeals should be af-
 firmed.  
  
@@ -512,7 +512,7 @@ CONCLUSION .......................................................... 19
  
  
 ii 
-",http://www.supremecourt.gov/DocketPDF/19/19-251/173539/20210331145344824_19-251%20bsac%20Public%20Citizen.pdf,"CONCLUSION 
+",,http://www.supremecourt.gov/DocketPDF/19/19-251/173539/20210331145344824_19-251%20bsac%20Public%20Citizen.pdf,"CONCLUSION 
 This Court should affirm the judgment of the court 
 of appeals. 
 Respectfully submitted, 
@@ -581,7 +581,7 @@ CONCLUSION ........................................................... 33
  
 iii 
  
-",http://www.supremecourt.gov/DocketPDF/19/19-251/175665/20210414115123856_AFP%20Amicus_For%20Refiling.pdf,"CONCLUSION 
+",,http://www.supremecourt.gov/DocketPDF/19/19-251/175665/20210414115123856_AFP%20Amicus_For%20Refiling.pdf,"CONCLUSION 
 The judgment of the court of appeals should be af-
 firmed. 
  
@@ -645,7 +645,7 @@ Applied to Its Tests ..............................  20
 CONCLUSION .....................................................  24 
 ii 
  
-",http://www.supremecourt.gov/DocketPDF/19/19-255/116791/20190924130040915_Brief%20of%20Amicus%20Curiae%20Institute%20for%20Justice%20in%20Support%20of%20Petitioners.pdf,"CONCLUSION 
+",,http://www.supremecourt.gov/DocketPDF/19/19-255/116791/20190924130040915_Brief%20of%20Amicus%20Curiae%20Institute%20for%20Justice%20in%20Support%20of%20Petitioners.pdf,"CONCLUSION 
  
 For the reasons stated above, this Court should 
 grant the petition for certiorari. 
@@ -706,7 +706,7 @@ CONCLUSION ......................................................... 20
  
 iii 
  
-",http://www.supremecourt.gov/DocketPDF/19/19-255/116991/20190925133143392_2019.09.25%20TMLCvB%20CERT%20ABR%20Brief%20of%20Amicus%20Curiae%20Proposition%208%20Legal%20Defense%20Fund%20in%20Support%20of%20Petitioners.pdf,"CONCLUSION 
+",,http://www.supremecourt.gov/DocketPDF/19/19-255/116991/20190925133143392_2019.09.25%20TMLCvB%20CERT%20ABR%20Brief%20of%20Amicus%20Curiae%20Proposition%208%20Legal%20Defense%20Fund%20in%20Support%20of%20Petitioners.pdf,"CONCLUSION 
 The real harms suffered by AFPF and the Law 
 Center (as well as amicus Defense Fund) and their 
 donors are not unique or isolated. The testimony of 
@@ -768,7 +768,7 @@ formation ...................................................  24
 CONCLUSION .....................................................  26 
 iii 
  
-",http://www.supremecourt.gov/DocketPDF/19/19-255/117068/20190925154605653_38524%20pdf%20Hong%20II.pdf,"CONCLUSION 
+",,http://www.supremecourt.gov/DocketPDF/19/19-255/117068/20190925154605653_38524%20pdf%20Hong%20II.pdf,"CONCLUSION 
  
 For the forgoing reasons, amici respectfully re-
 quest that this Court grant the petitions for writs of 
@@ -788,7 +788,7 @@ Argument ................................................................... 11
 Conclusion .................................................................. 25 
  
 iii 
-",http://www.supremecourt.gov/DocketPDF/19/19-255/123622/20191125170735992_Brief%20in%20Opposition_FINAL%20FOR%20FILING.pdf,"CONCLUSION 
+",,http://www.supremecourt.gov/DocketPDF/19/19-255/123622/20191125170735992_Brief%20in%20Opposition_FINAL%20FOR%20FILING.pdf,"CONCLUSION 
 The petitions for writs of certiorari should be de-
 nied. 
 Respectfully submitted, 
@@ -841,7 +841,7 @@ Religiously Important. ................................. 18
 CONCLUSION .......................................................... 23 
 ii 
  
-",http://www.supremecourt.gov/DocketPDF/19/19-267/117320/20190927142327103_Biel%20Cert-Stage%20Amicus%20Brief%20TO%20FILE.pdf,"CONCLUSION 
+",,http://www.supremecourt.gov/DocketPDF/19/19-267/117320/20190927142327103_Biel%20Cert-Stage%20Amicus%20Brief%20TO%20FILE.pdf,"CONCLUSION 
 For the foregoing reasons, the petitions for writs 
 of certiorari should be granted. 
 Respectfully submitted, 
@@ -905,7 +905,7 @@ Religious Liberty ....................................... 29
 CONCLUSION .......................................................... 36 
 ii 
  
-",http://www.supremecourt.gov/DocketPDF/19/19-267/132196/20200206125328371_Guadalupe%20amicus%20final.pdf,"CONCLUSION 
+",,http://www.supremecourt.gov/DocketPDF/19/19-267/132196/20200206125328371_Guadalupe%20amicus%20final.pdf,"CONCLUSION 
  
 Because religious liberty is the first and foremost 
 of 
@@ -985,7 +985,7 @@ CONCLUSION ....................................................... 15
  
 ii 
  
-",http://www.supremecourt.gov/DocketPDF/19/19-267/132328/20200207130206327_39448%20COLPA%20Amicus%20Brief.pdf,"CONCLUSION 
+",,http://www.supremecourt.gov/DocketPDF/19/19-267/132328/20200207130206327_39448%20COLPA%20Amicus%20Brief.pdf,"CONCLUSION 
  
  
 For the foregoing reasons, the judgment of the 
@@ -1066,7 +1066,7 @@ CONCLUSION ........................................................... 27
 !
 ""
 iii""
-",http://www.supremecourt.gov/DocketPDF/19/19-267/132498/20200210135246411_19-267%20and%2019-348-tsacNationalCatholicEducationalAssociation.pdf,"CONCLUSION 
+",,http://www.supremecourt.gov/DocketPDF/19/19-267/132498/20200210135246411_19-267%20and%2019-348-tsacNationalCatholicEducationalAssociation.pdf,"CONCLUSION 
 The Ninth Circuit’s approach to the ministerial 
 exception would threaten the Catholic Church’s 
 educational mission, the constitutional principles 
@@ -1106,7 +1106,7 @@ CONCLUSION .......................................................... 24 
  
 ii 
  
-",http://www.supremecourt.gov/DocketPDF/19/19-267/132528/20200210152615938_COGIC-OU%20Merits%20Amicus%20Brief%20TO%20FILE.pdf,"CONCLUSION 
+",,http://www.supremecourt.gov/DocketPDF/19/19-267/132528/20200210152615938_COGIC-OU%20Merits%20Amicus%20Brief%20TO%20FILE.pdf,"CONCLUSION 
 For the foregoing reasons, the judgments of the 
 Ninth Circuit should be reversed.  
 Respectfully submitted, 
@@ -1142,7 +1142,7 @@ That the Ministerial Exception Did Not
 Cover Respondents. ........................................ 18 
 CONCLUSION ......................................................... 21 
 - iii - 
-",http://www.supremecourt.gov/DocketPDF/19/19-267/132512/20200210155343897_19-267%20and%2019-348%20tsacTorah%20Umesorah.pdf,"CONCLUSION 
+",,http://www.supremecourt.gov/DocketPDF/19/19-267/132512/20200210155343897_19-267%20and%2019-348%20tsacTorah%20Umesorah.pdf,"CONCLUSION 
 The Ninth Circuit’s approach in Biel and 
 Morrissey-Berru is inconsistent with this Court’s 
 decision in Hosanna-Tabor and the intent of the 

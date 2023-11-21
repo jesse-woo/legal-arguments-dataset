@@ -1,4 +1,4 @@
-Filing Name,Extracted Table of Contents,URL,Conclusion,proper_extraction,classification,salience-rating,annotator-uni
+Filing Name,Extracted Table of Contents,Extracted Arguments from ToC,URL,Conclusion,proper_extraction,classification,salience-rating,annotator-uni
 scotus_filing_39359,"TABLE OF CONTENTS 
 Page 
 INTEREST OF THE AMICI CURIAE ...................... 1 
@@ -55,7 +55,7 @@ CONCLUSION ......................................................... 32
 iii 
  
  
-",http://www.supremecourt.gov/DocketPDF/19/19-431/141215/20200408172817325_19-431_Amicus%20Brief_Administrative%20Law%20Scholars.pdf,"CONCLUSION 
+",,http://www.supremecourt.gov/DocketPDF/19/19-431/141215/20200408172817325_19-431_Amicus%20Brief_Administrative%20Law%20Scholars.pdf,"CONCLUSION 
 For the foregoing reasons, the judgment of the 
 Third Circuit should be affirmed. 
  
@@ -108,7 +108,7 @@ CONCLUSION ....................................................... 35
 iii 
  
  
-",http://www.supremecourt.gov/DocketPDF/19/19-431/141103/20200408123724749_19-431%2019-454%20bsac%20of%20MA%20CA%20et%20al.%20in%20support%20of%20PA%20NJ.pdf,"CONCLUSION 
+",,http://www.supremecourt.gov/DocketPDF/19/19-431/141103/20200408123724749_19-431%2019-454%20bsac%20of%20MA%20CA%20et%20al.%20in%20support%20of%20PA%20NJ.pdf,"CONCLUSION 
 The Court should affirm the judgment of the court 
 of appeals. 
      Respectfully submitted, 
@@ -168,7 +168,7 @@ ii
  
  
  
-",http://www.supremecourt.gov/DocketPDF/19/19-431/141152/20200408142058846_19-431%2019-454_Amici%20Brief.pdf,"CONCLUSION 
+",,http://www.supremecourt.gov/DocketPDF/19/19-431/141152/20200408142058846_19-431%2019-454_Amici%20Brief.pdf,"CONCLUSION 
 This Court should affirm the decision of the 
 Court of Appeals. 
  
@@ -239,7 +239,7 @@ CONCLUSION .......................................................... 31
  
 - iii - 
  
-",http://www.supremecourt.gov/DocketPDF/19/19-431/141100/20200408123220159_Amicus%20Brief.pdf,"CONCLUSION  
+",,http://www.supremecourt.gov/DocketPDF/19/19-431/141100/20200408123220159_Amicus%20Brief.pdf,"CONCLUSION  
  
 For the foregoing reasons, the judgment of the 
 Third Circuit should be upheld.  
@@ -280,7 +280,7 @@ CONCLUSION .....................................................
  
 ii 
  
-",http://www.supremecourt.gov/DocketPDF/19/19-431/141157/20200408142556753_Professor%20Mila%20Sohoni%20Amicus.pdf,"CONCLUSION 
+",,http://www.supremecourt.gov/DocketPDF/19/19-431/141157/20200408142556753_Professor%20Mila%20Sohoni%20Amicus.pdf,"CONCLUSION 
 The Court should conclude that the APA authorizes 
 federal courts to set aside regulations and to stay their 
 effective date, with universal effect, while litigation is 
@@ -352,7 +352,7 @@ THE NINTH CIRCUIT’S ATS STANDARD . . . . .
 CONCLUSION . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 21
 v
-",http://www.supremecourt.gov/DocketPDF/19/19-453/120492/20191028153739212_Nestle%20v%20Doe%20I-%20WLF%20Amicus.pdf,"CONCLUSION
+",,http://www.supremecourt.gov/DocketPDF/19/19-453/120492/20191028153739212_Nestle%20v%20Doe%20I-%20WLF%20Amicus.pdf,"CONCLUSION
 The Court should grant the Petitions.
 Respectfully submitted,
 Richard A. Samp
@@ -390,7 +390,7 @@ CONCLUSION .......................................................... 20 
  
 ii
  
-",http://www.supremecourt.gov/DocketPDF/19/19-453/120469/20191028145716663_19-416%2019-453%20tsac%20National%20Confectioners%20Association.pdf,"CONCLUSION 
+",,http://www.supremecourt.gov/DocketPDF/19/19-453/120469/20191028145716663_19-416%2019-453%20tsac%20National%20Confectioners%20Association.pdf,"CONCLUSION 
 The petitions for writs of certiorari should be grant-
 ed. 
  
@@ -449,7 +449,7 @@ Conclusion ................................................................  17
 ii 
  
  
-",http://www.supremecourt.gov/DocketPDF/19/19-465/137353/20200306161147332_19-465%20and%2019-518%20Amicus%20Citizens%20for%20Self-Governance.pdf,"Conclusion 
+",,http://www.supremecourt.gov/DocketPDF/19/19-465/137353/20200306161147332_19-465%20and%2019-518%20Amicus%20Citizens%20for%20Self-Governance.pdf,"Conclusion 
  
 The Court should carefully limit its holding to 
 presidential electors, clarifying that the decision is 
@@ -514,7 +514,7 @@ III. Congress Has Never Failed to Count an
 Anomalous Electoral Vote. .............................. 26 
 CONCLUSION .................................................................. 30 
 - iii - 
-",http://www.supremecourt.gov/DocketPDF/19/19-465/137327/20200306152831186_2020%2003%2006%20Rosin%20et%20al%20amicus%20FINAL%20AS%20PRINTED%20pdfA.pdf,"CONCLUSION 
+",,http://www.supremecourt.gov/DocketPDF/19/19-465/137327/20200306152831186_2020%2003%2006%20Rosin%20et%20al%20amicus%20FINAL%20AS%20PRINTED%20pdfA.pdf,"CONCLUSION 
 In sum, the historical record confirms that, under 
 our constitutional framework, each elector is free to vote 
 as he or she chooses. Therefore, this Court should reverse 
@@ -647,7 +647,7 @@ CONCLUSION ................................................................. 33
 iii 
  
  
-",http://www.supremecourt.gov/DocketPDF/19/19-465/137529/20200309153855527_19-465%2019-518%20ac%20Professor%20Foley.pdf,"CONCLUSION 
+",,http://www.supremecourt.gov/DocketPDF/19/19-465/137529/20200309153855527_19-465%2019-518%20ac%20Professor%20Foley.pdf,"CONCLUSION 
 Electors’ independence did not arise, or endure, by 
 chance. It was critical to the compromise that secured 
 the Constitution’s passage, and it was well-known to 
@@ -699,7 +699,7 @@ electoral votes. ................................................... 12
 CONCLUSION .......................................................... 17 
 ii 
  
-",http://www.supremecourt.gov/DocketPDF/19/19-465/137491/20200309134459107_MEVC%20Amicus%20Brief_Final.pdf,"CONCLUSION 
+",,http://www.supremecourt.gov/DocketPDF/19/19-465/137491/20200309134459107_MEVC%20Amicus%20Brief_Final.pdf,"CONCLUSION 
 Although MEVC does not take a position on the 
 questions presented, it respectfully urges the Court to 
 provide ample guidance on crucial practical issues 
@@ -746,7 +746,7 @@ CONCLUSION .....................................................  26
  
 iii 
  
-",http://www.supremecourt.gov/DocketPDF/19/19-465/141203/20200408161330330_Colorado%20Brief.pdf,"CONCLUSION 
+",,http://www.supremecourt.gov/DocketPDF/19/19-465/141203/20200408161330330_Colorado%20Brief.pdf,"CONCLUSION 
  
 This Court should reverse the Tenth Circuit’s 
 Baca decision and afﬁrm the decision of the Washing-
@@ -823,7 +823,7 @@ CONCLUSION .....................................................
 28 
 ii 
  
-",http://www.supremecourt.gov/DocketPDF/19/19-465/141108/20200408124706333_Campaign%20Legal%20Center%20and%20Issue%20One%20Amicus.pdf,"CONCLUSION 
+",,http://www.supremecourt.gov/DocketPDF/19/19-465/141108/20200408124706333_Campaign%20Legal%20Center%20and%20Issue%20One%20Amicus.pdf,"CONCLUSION 
 For these reasons, the Court should affirm the 
 Washington Supreme Court in No. 19-465 and reverse 
 the Tenth Circuit in No. 19-518.  
@@ -870,7 +870,7 @@ CONCLUSION .......................................................... 32
  
 ii 
  
-",http://www.supremecourt.gov/DocketPDF/19/19-508/156631/20201002131725210_2020-10-02%20Surescripts%20Amicus%20Br%20in%2019-508%20and%2019-825.pdf,"CONCLUSION 
+",,http://www.supremecourt.gov/DocketPDF/19/19-508/156631/20201002131725210_2020-10-02%20Surescripts%20Amicus%20Br%20in%2019-508%20and%2019-825.pdf,"CONCLUSION 
 For the foregoing reasons, the judgment of the 
 court of appeals in No. 19-508 should be reversed, and 
 the judgment of the court of appeals in No. 19-825 
@@ -905,7 +905,7 @@ Conclusion .............................................................. 18
  
 II 
  
-",http://www.supremecourt.gov/DocketPDF/19/19-508/156629/20201002130714167_19-508_19-825%20Chamber%20Of%20Commerce%20Amicus.pdf,"CONCLUSION 
+",,http://www.supremecourt.gov/DocketPDF/19/19-508/156629/20201002130714167_19-508_19-825%20Chamber%20Of%20Commerce%20Amicus.pdf,"CONCLUSION 
 For the foregoing reasons, the Court should hold 
 that Section 13(b) of the FTC Act does not authorize 
 the FTC to seek restitution, disgorgement, or any 
@@ -977,7 +977,7 @@ CONCLUSION .......................................................... 16
  
 ii 
  
-",http://www.supremecourt.gov/DocketPDF/19/19-508/156634/20201002132209247_Amicus%20Brief%20-%20PhRMA.pdf,"CONCLUSION 
+",,http://www.supremecourt.gov/DocketPDF/19/19-508/156634/20201002132209247_Amicus%20Brief%20-%20PhRMA.pdf,"CONCLUSION 
 For the foregoing reasons, as well as those reasons 
 set forth in the non-governmental parties’ briefs, the 
 Ninth Circuit’s judgment in AMG Capital Manage-
@@ -1100,7 +1100,7 @@ CONCLUSION ......................................................... 27
  
  
 iii 
-",http://www.supremecourt.gov/DocketPDF/19/19-508/156656/20201002150915902_19-508%20Amicus%20Curiae%20Brief.pdf,"CONCLUSION 
+",,http://www.supremecourt.gov/DocketPDF/19/19-508/156656/20201002150915902_19-508%20Amicus%20Curiae%20Brief.pdf,"CONCLUSION 
  
  
 The judgment of the court of appeals in No. 19-
@@ -1150,7 +1150,7 @@ III. Congress Has Never Failed to Count an
 Anomalous Electoral Vote. .............................. 26 
 CONCLUSION .................................................................. 30 
 - iii - 
-",http://www.supremecourt.gov/DocketPDF/19/19-518/138013/20200312163210407_Rosin%20brief.pdf,"CONCLUSION 
+",,http://www.supremecourt.gov/DocketPDF/19/19-518/138013/20200312163210407_Rosin%20brief.pdf,"CONCLUSION 
 In sum, the historical record confirms that, under 
 our constitutional framework, each elector is free to vote 
 as he or she chooses. Therefore, this Court should reverse 
@@ -1283,7 +1283,7 @@ CONCLUSION ................................................................. 33
 iii 
  
  
-",http://www.supremecourt.gov/DocketPDF/19/19-518/137999/20200312153503846_Prof%20Foley%20brief.pdf,"CONCLUSION 
+",,http://www.supremecourt.gov/DocketPDF/19/19-518/137999/20200312153503846_Prof%20Foley%20brief.pdf,"CONCLUSION 
 Electors’ independence did not arise, or endure, by 
 chance. It was critical to the compromise that secured 
 the Constitution’s passage, and it was well-known to 
@@ -1327,7 +1327,7 @@ CONCLUSION .....................................................  26
  
 iii 
  
-",http://www.supremecourt.gov/DocketPDF/19/19-518/141191/20200408154330623_Colorado%20Brief.pdf,"CONCLUSION 
+",,http://www.supremecourt.gov/DocketPDF/19/19-518/141191/20200408154330623_Colorado%20Brief.pdf,"CONCLUSION 
  
 This Court should reverse the Tenth Circuit’s 
 Baca decision and afﬁrm the decision of the Washing-

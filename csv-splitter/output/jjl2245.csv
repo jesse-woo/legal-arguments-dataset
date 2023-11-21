@@ -1,4 +1,4 @@
-Filing Name,Extracted Table of Contents,URL,Conclusion,proper_extraction,classification,salience-rating,annotator-uni
+Filing Name,Extracted Table of Contents,Extracted Arguments from ToC,URL,Conclusion,proper_extraction,classification,salience-rating,annotator-uni
 scotus_filing_38997,"TABLE OF CONTENTS 
  
 Page 
@@ -28,7 +28,7 @@ CONCLUSION ......................................................... 19
  
 ii 
  
-",http://www.supremecourt.gov/DocketPDF/19/19-416/120539/20191028175509579_19-416%20and%2019-453%20tsac%20Chevron%20Corporation.pdf,"CONCLUSION 
+",,http://www.supremecourt.gov/DocketPDF/19/19-416/120539/20191028175509579_19-416%20and%2019-453%20tsac%20Chevron%20Corporation.pdf,"CONCLUSION 
 For these reasons, the Petitions should be 
 granted. 
  
@@ -60,7 +60,7 @@ CONCLUSION ...................................................... 15
  
  
 iv 
-",http://www.supremecourt.gov/DocketPDF/19/19-416/153297/20200908113835216_WLF%20Nestle%20SCOTUS.pdf,"CONCLUSION 
+",,http://www.supremecourt.gov/DocketPDF/19/19-416/153297/20200908113835216_WLF%20Nestle%20SCOTUS.pdf,"CONCLUSION 
  
 The Ninth Circuit’s judgment should be re-
 versed. 
@@ -98,7 +98,7 @@ ATS ........................................................................... 
 B. Respondents’ aiding-and-abetting claims are 
 impermissibly extraterritorial ............................... 26 
 Conclusion ................................................................................... 34 
-",http://www.supremecourt.gov/DocketPDF/19/19-416/153365/20200908144507659_19-416tsacUnitedStates.pdf,"CONCLUSION 
+",,http://www.supremecourt.gov/DocketPDF/19/19-416/153365/20200908144507659_19-416tsacUnitedStates.pdf,"CONCLUSION 
 The judgment of the court of appeals should be re-
 versed. 
 Respectfully submitted. 
@@ -177,7 +177,7 @@ APPENDIX .............................................................. 1a
  
 iii 
  
-",http://www.supremecourt.gov/DocketPDF/19/19-416/153336/20200908132345115_19-416%2019-453%20Amicus%20Brief.pdf,"CONCLUSION 
+",,http://www.supremecourt.gov/DocketPDF/19/19-416/153336/20200908132345115_19-416%2019-453%20Amicus%20Brief.pdf,"CONCLUSION 
 The judgment of the Court of Appeals should be 
 reversed. 
  
@@ -223,7 +223,7 @@ CONCLUSION .......................................................... 26
  
 ii 
  
-",http://www.supremecourt.gov/DocketPDF/19/19-416/158375/20201021125637549_19-416%20and%2019-453%20Center%20for%20Justice%20Amicus.pdf,"CONCLUSION 
+",,http://www.supremecourt.gov/DocketPDF/19/19-416/158375/20201021125637549_19-416%20and%2019-453%20Center%20for%20Justice%20Amicus.pdf,"CONCLUSION 
 For the foregoing reasons, and those put forth by 
 the Respondents and other amici in support of 
 Respondents, the judgment of the Ninth Circuit 
@@ -281,7 +281,7 @@ CONCLUSION .......................................................... 30
   
  
 iii 
-",http://www.supremecourt.gov/DocketPDF/19/19-416/158402/20201021145658638_19-416%2019-453bsacIntlLawScholars.pdf,"CONCLUSION 
+",,http://www.supremecourt.gov/DocketPDF/19/19-416/158402/20201021145658638_19-416%2019-453bsacIntlLawScholars.pdf,"CONCLUSION 
 The court of appeals in this case asked the correct 
 question under international law: whether the cus-
 tomary international law prohibition against slavery 
@@ -352,7 +352,7 @@ CONCLUSION .......................................................... 28
  
 iii 
  
-",http://www.supremecourt.gov/DocketPDF/19/19-416/158360/20201021121655062_19-416%2019-453%20Former%20Government%20Officials%20Nestle%20v%20Doe%20Amicus%20Brief%20.pdf,"CONCLUSION 
+",,http://www.supremecourt.gov/DocketPDF/19/19-416/158360/20201021121655062_19-416%2019-453%20Former%20Government%20Officials%20Nestle%20v%20Doe%20Amicus%20Brief%20.pdf,"CONCLUSION 
 For the foregoing reasons, amici urge the Court to 
 rule in favor of the respondents, and to reject the 
 United States government’s radical request to cate-
@@ -389,7 +389,7 @@ CONCLUSION .......................................................... 34
 ii 
  
  
-",http://www.supremecourt.gov/DocketPDF/19/19-416/158424/20201021160124032_40229%20pdf%20Jacques.pdf,"CONCLUSION 
+",,http://www.supremecourt.gov/DocketPDF/19/19-416/158424/20201021160124032_40229%20pdf%20Jacques.pdf,"CONCLUSION 
 United States courts are an appropriate forum to 
 hear claims that United States citizens, whether 
 individuals or corporations, have aided and abetted 
@@ -522,7 +522,7 @@ vi
  
  
  
-",http://www.supremecourt.gov/DocketPDF/19/19-422/154153/20200916135926128_19-422%20Brief%20of%20Patrick%20J.%20Collins%20et%20al..pdf,"CONCLUSION 
+",,http://www.supremecourt.gov/DocketPDF/19/19-422/154153/20200916135926128_19-422%20Brief%20of%20Patrick%20J.%20Collins%20et%20al..pdf,"CONCLUSION 
 The Court should affirm the Fifth Circuit’s statu-
 tory ruling and its ruling that FHFA is unconstitu-
 tionally structured. It should reverse the Fifth Cir-
@@ -575,7 +575,7 @@ CONCLUSION ......................................................... 19
  
  
  
-",http://www.supremecourt.gov/DocketPDF/19/19-422/154723/20200923140924837_19-422%2019-563%20tsac%20Vartanian.pdf,"CONCLUSION 
+",,http://www.supremecourt.gov/DocketPDF/19/19-422/154723/20200923140924837_19-422%2019-563%20tsac%20Vartanian.pdf,"CONCLUSION 
 For the foregoing reasons, this Court should 
 affirm the Fifth Circuit’s rulings that the shareholders 
 have plausibly alleged that the Net Worth Sweep is 
@@ -642,7 +642,7 @@ HAVE FAR-REACHING EFFECTS. ................ 47
 CONCLUSION .......................................................... 50 
 iv 
  
-",http://www.supremecourt.gov/DocketPDF/19/19-422/157945/20201016124102195_Collins%20v.%20Mnuchin%20Appointed%20Amicus%20Brief.pdf,"CONCLUSION 
+",,http://www.supremecourt.gov/DocketPDF/19/19-422/157945/20201016124102195_Collins%20v.%20Mnuchin%20Appointed%20Amicus%20Brief.pdf,"CONCLUSION 
 The Fifth Circuit’s separation-of-powers holding 
 should be reversed.  
  
@@ -715,7 +715,7 @@ usual law of remedies ....................................... 40
 2. Any constitutional violation was harmless ..... 43 
 3. Laches also precludes the requested relief .... 46 
 Conclusion ................................................................................... 48 
-",http://www.supremecourt.gov/DocketPDF/19/19-422/158700/20201023184602735_19-422rbUnitedStates.pdf,"CONCLUSION 
+",,http://www.supremecourt.gov/DocketPDF/19/19-422/158700/20201023184602735_19-422rbUnitedStates.pdf,"CONCLUSION 
 The judgment of the court of appeals should be re-
 versed as to the statutory claim and affirmed as to the 
 constitutional claim.     
@@ -750,7 +750,7 @@ CONCLUSION ....................................................
 24 
 ii 
  
-",http://www.supremecourt.gov/DocketPDF/19/19-422/159211/20201030111138186_FHFA%20SCOTUS%20Brief%20-%20FINAL.pdf,"CONCLUSION 
+",,http://www.supremecourt.gov/DocketPDF/19/19-422/159211/20201030111138186_FHFA%20SCOTUS%20Brief%20-%20FINAL.pdf,"CONCLUSION 
 For the foregoing reasons, this Court should re-
 verse. 
 Respectfully submitted,  
@@ -799,7 +799,7 @@ CONCLUSION ......................................................... 20
 iii 
  
  
-",http://www.supremecourt.gov/DocketPDF/19/19-431/138355/20200316175109475_Little%20Sisters%20merits%20revised.pdf,"CONCLUSION 
+",,http://www.supremecourt.gov/DocketPDF/19/19-431/138355/20200316175109475_Little%20Sisters%20merits%20revised.pdf,"CONCLUSION 
 The decision below is emblematic of a recent trend 
 in the federal courts: (1) one administration adopts a 
 discretionary policy that is not compelled by statute; 
@@ -891,7 +891,7 @@ CONCLUSION .......................................................... 26
  
 iii 
  
-",http://www.supremecourt.gov/DocketPDF/19/19-431/137423/20200309101217748_19-431%20Amicus%20Brief%20of%20Independent%20Womens%20Law%20Center.pdf,"CONCLUSION 
+",,http://www.supremecourt.gov/DocketPDF/19/19-431/137423/20200309101217748_19-431%20Amicus%20Brief%20of%20Independent%20Womens%20Law%20Center.pdf,"CONCLUSION 
 For these reasons, this Court should reverse the 
 judgment of the Third Circuit and hold that RFRA re-
 quires the government to exempt religious objectors 
@@ -959,7 +959,7 @@ Devalue Free-Exercise Interests ................ 24
  
  
 iv 
-",http://www.supremecourt.gov/DocketPDF/19/19-431/137463/20200309122650537_Little%20Sisters%20v%20Pennsylvanina-%20NCLA%20Amicus.pdf,"CONCLUSION 
+",,http://www.supremecourt.gov/DocketPDF/19/19-431/137463/20200309122650537_Little%20Sisters%20v%20Pennsylvanina-%20NCLA%20Amicus.pdf,"CONCLUSION 
  
 The judgment of the Third Circuit should be 
 reversed. 
@@ -1025,7 +1025,7 @@ CONCLUSION .......................................................... 15
 ii 
  
  
-",http://www.supremecourt.gov/DocketPDF/19/19-431/137480/20200309132515310_19-431%2019-454%20tsac%20First%20Liberty%20Institute.pdf,"CONCLUSION 
+",,http://www.supremecourt.gov/DocketPDF/19/19-431/137480/20200309132515310_19-431%2019-454%20tsac%20First%20Liberty%20Institute.pdf,"CONCLUSION 
  
 The Court should reverse the decision below.  
  
@@ -1058,7 +1058,7 @@ CONCLUSION .......................................................... 21
 ii 
  
  
-",http://www.supremecourt.gov/DocketPDF/19/19-431/137551/20200309164825846_Little%20Sisters%20Merits%20Amicus%20Brief%20TO%20FILE.pdf,"CONCLUSION 
+",,http://www.supremecourt.gov/DocketPDF/19/19-431/137551/20200309164825846_Little%20Sisters%20Merits%20Amicus%20Brief%20TO%20FILE.pdf,"CONCLUSION 
 The decision below should be reversed. 
 Respectfully submitted, 
 TRAVIS ANDREWS 
@@ -1092,7 +1092,7 @@ Conclusion .....................................................................
  
 iii 
  
-",http://www.supremecourt.gov/DocketPDF/19/19-431/137503/20200309144644738_Laycock%20Amicus%20Brief.pdf,"CONCLUSION 
+",,http://www.supremecourt.gov/DocketPDF/19/19-431/137503/20200309144644738_Laycock%20Amicus%20Brief.pdf,"CONCLUSION 
 The judgment of the Third Circuit should be reversed.  
  
  
@@ -1132,7 +1132,7 @@ The States Lack Article III Standing to
 Challenge the Exemptions . . . . . . . . . . . . . . 25
 CONCLUSION. . . . . . . . . . . . . . . . . . . . . . . . . . . . . 33
 ii
-",http://www.supremecourt.gov/DocketPDF/19/19-431/137437/20200309110452036_19-431%2019-454%20TSAC%20ACLJ.pdf,"CONCLUSION
+",,http://www.supremecourt.gov/DocketPDF/19/19-431/137437/20200309110452036_19-431%2019-454%20TSAC%20ACLJ.pdf,"CONCLUSION
 This Court should reverse the judgment below.
 Respectfully submitted,
 JA",,,,jjl2245

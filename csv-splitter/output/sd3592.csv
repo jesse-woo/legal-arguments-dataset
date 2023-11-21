@@ -1,4 +1,4 @@
-Filing Name,Extracted Table of Contents,URL,Conclusion,proper_extraction,classification,salience-rating,annotator-uni
+Filing Name,Extracted Table of Contents,Extracted Arguments from ToC,URL,Conclusion,proper_extraction,classification,salience-rating,annotator-uni
 scotus_filing_34174,"TABLE OF CONTENTS 
 Page 
 TABLE OF AUTHORITIES .......................................................................................... ii 
@@ -27,7 +27,7 @@ AND THE PUBLIC BY REQUIRING UNNECESSARY TRAVEL AND IN-PERSON
 CONTACTS DURING THE PANDEMIC ............................................................................ 20 
 CONCLUSION ............................................................................................................. 23 
 ii 
-",http://www.supremecourt.gov/DocketPDF/20/20A34/153307/20200908123313493_20A34-Amicus%20Mot%20for%20States%20of%20NY%20et%20al.pdf,"CONCLUSION 
+",,http://www.supremecourt.gov/DocketPDF/20/20A34/153307/20200908123313493_20A34-Amicus%20Mot%20for%20States%20of%20NY%20et%20al.pdf,"CONCLUSION 
 The stay application should be denied. 
 Dated: 
 New York, New York 
@@ -48,7 +48,7 @@ CONCLUSION .....................................................................
  
  
 ii 
-",http://www.supremecourt.gov/DocketPDF/20/20A55/156706/20201003132855322_Andino%20v.%20Middleton%20-%20Motion%20for%20Leave%20to%20File%20and%20Brief.pdf,"CONCLUSION 
+",,http://www.supremecourt.gov/DocketPDF/20/20A55/156706/20201003132855322_Andino%20v.%20Middleton%20-%20Motion%20for%20Leave%20to%20File%20and%20Brief.pdf,"CONCLUSION 
  
 This Court should deny the application for a stay. 
  
@@ -127,7 +127,7 @@ CONCLUSION ............................................................. 29
 iii 
  
  
-",http://www.supremecourt.gov/DocketPDF/20/20A55/156710/20201003154316895_ANDINO%20FINAL%20AMICI%20BRIEF.pdf,"CONCLUSION 
+",,http://www.supremecourt.gov/DocketPDF/20/20A55/156710/20201003154316895_ANDINO%20FINAL%20AMICI%20BRIEF.pdf,"CONCLUSION 
  
 For the reasons set forth above, Amici urge the 
 Court to deny the emergency application for a stay. 
@@ -167,7 +167,7 @@ CONCLUSION .....................................................................
  
  
 ii 
-",http://www.supremecourt.gov/DocketPDF/20/20A55/156705/20201003121147452_No20A55_Andino%20v%20Middleton_Amicus%20Supporting%20Respondents.pdf,"CONCLUSION 
+",,http://www.supremecourt.gov/DocketPDF/20/20A55/156705/20201003121147452_No20A55_Andino%20v%20Middleton_Amicus%20Supporting%20Respondents.pdf,"CONCLUSION 
  
  
 For the foregoing reasons, the Court should deny Applicants’ Emergency 
@@ -186,7 +186,7 @@ III. Further Guidance Is Necessary To Reconfirm The
 Judiciary’s Proper Role In Election Cases ........................ 13 
 Conclusion ...................................................................................... 15 
  
-",http://www.supremecourt.gov/DocketPDF/20/20A64/157911/20201016103431606_20A64%20-%2020A65%20-%2020A66%20Election%20Law%20Scholars%20Motion%20-%20Brief.pdf,"CONCLUSION 
+",,http://www.supremecourt.gov/DocketPDF/20/20A64/157911/20201016103431606_20A64%20-%2020A65%20-%2020A66%20Election%20Law%20Scholars%20Motion%20-%20Brief.pdf,"CONCLUSION 
 For the reasons stated above, amici respectfully urge 
 the Court to clarify that Purcell issues no command and 
 creates no presumption against courts’ injunction of po-
@@ -253,7 +253,7 @@ Conclusion .....................................................................
  
 vi 
  
-",http://www.supremecourt.gov/DocketPDF/20/20A65/157816/20201015153259051_20A64%2020A65%2020A66%20Motions%20and%20Amicus%20Brief%20of%20Tony%20Evers%20Governor%20of%20Wisconsin.pdf,"Conclusion 
+",,http://www.supremecourt.gov/DocketPDF/20/20A65/157816/20201015153259051_20A64%2020A65%2020A66%20Motions%20and%20Amicus%20Brief%20of%20Tony%20Evers%20Governor%20of%20Wisconsin.pdf,"Conclusion 
 For the foregoing reasons, to protect Wisconsin citizens' right to vote and 
 health, the Court should grant Plaintiffs-Applicants' Emergency Motion to Vacate 
 the Circuit Court Stay of the district court's preliminary injunction. 
@@ -282,7 +282,7 @@ III. Further Guidance Is Necessary To Reconfirm The
 Judiciary’s Proper Role In Election Cases ........................ 13 
 Conclusion ...................................................................................... 15 
  
-",http://www.supremecourt.gov/DocketPDF/20/20A66/157915/20201016105409273_20A64%20-%2020A65%20-%2020A66%20Election%20Law%20Scholars%20Motion%20-%20Brief.pdf,"CONCLUSION 
+",,http://www.supremecourt.gov/DocketPDF/20/20A66/157915/20201016105409273_20A64%20-%2020A65%20-%2020A66%20Election%20Law%20Scholars%20Motion%20-%20Brief.pdf,"CONCLUSION 
 For the reasons stated above, amici respectfully urge 
 the Court to clarify that Purcell issues no command and 
 creates no presumption against courts’ injunction of po-
@@ -334,7 +334,7 @@ CONCLUSION .....................................................................
  
  
 ii 
-",http://www.supremecourt.gov/DocketPDF/20/20A67/158077/20201019114546685_People%20First%20DC%20%20Mot%20and%20Br%20file.pdf,"CONCLUSION 
+",,http://www.supremecourt.gov/DocketPDF/20/20A67/158077/20201019114546685_People%20First%20DC%20%20Mot%20and%20Br%20file.pdf,"CONCLUSION 
 This Court should deny the application for a stay. 
  
 30  
@@ -361,7 +361,7 @@ CONCLUSION .....................................................................
  
 ii 
  
-",http://www.supremecourt.gov/DocketPDF/20/20A67/158080/20201019115034063_20A67%20Motion%20and%20Brief%20for%20the%20American%20Diabetes%20Association%20et%20al.pdf,"CONCLUSION 
+",,http://www.supremecourt.gov/DocketPDF/20/20A67/158080/20201019115034063_20A67%20Motion%20and%20Brief%20for%20the%20American%20Diabetes%20Association%20et%20al.pdf,"CONCLUSION 
  
 For the reasons stated herein, Amici respectfully submit that this Court should deny the 
 emergency application for a stay.  
@@ -412,7 +412,7 @@ CONCLUSION .....................................................................
  
  
 iii 
-",http://www.supremecourt.gov/DocketPDF/20/20A67/158430/20201021163335130_201001rev%20Motion%20Brief%20Amicus%20eservice.pdf,"CONCLUSION 
+",,http://www.supremecourt.gov/DocketPDF/20/20A67/158430/20201021163335130_201001rev%20Motion%20Brief%20Amicus%20eservice.pdf,"CONCLUSION 
  
  
 For the reasons set forth above, amici urge the Court to deny Defendants’ 
@@ -491,7 +491,7 @@ CONCLUSION .....................................................................
 CERTIFICATE OF SERVICE 
  
 ii 
-",http://www.supremecourt.gov/DocketPDF/20/20A71/158733/20201024145602340_20A17%20Motion%20to%20Leave%20Amici%20-%20Democracy%20NC%20v.%20NC%20Bd%20of%20Elections.pdf,"CONCLUSION 
+",,http://www.supremecourt.gov/DocketPDF/20/20A71/158733/20201024145602340_20A17%20Motion%20to%20Leave%20Amici%20-%20Democracy%20NC%20v.%20NC%20Bd%20of%20Elections.pdf,"CONCLUSION 
 For the reasons stated above, Amici urge this Court to deny the Applica-
 tions for injunctive relief in Wise.   
 Dated: October 24, 2020 
@@ -509,7 +509,7 @@ CONCLUSION .....................................................................
  
  
 ii 
-",http://www.supremecourt.gov/DocketPDF/20/20A72/158727/20201024142754250_Circosta%20Motion%20For%20Leave%20to%20File%20Amicus%20Brief%20FINAL.pdf,"CONCLUSION 
+",,http://www.supremecourt.gov/DocketPDF/20/20A72/158727/20201024142754250_Circosta%20Motion%20For%20Leave%20to%20File%20Amicus%20Brief%20FINAL.pdf,"CONCLUSION 
 This Court should deny the emergency applications for injunctive relief. 
 Respectfully submitted, 
  
@@ -539,7 +539,7 @@ Unconstitutional Action Here, but Also to Correct Lower Courts’
 Widespread Misinterpretation of South Bay.. . . . . . . . . . . . . . . . . . . . . . . . . 10
 CONCLUSION. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
 iii
-",http://www.supremecourt.gov/DocketPDF/20/20A87/161004/20201117154639544_20A87%20Amicus%20Brief%20First%20Liberty.pdf,"CONCLUSION
+",,http://www.supremecourt.gov/DocketPDF/20/20A87/161004/20201117154639544_20A87%20Amicus%20Brief%20First%20Liberty.pdf,"CONCLUSION
 For these reasons, the Court should grant emergency relief.
 Respectfully submitted,",,,,sd3592
 scotus_filing_34402,"TABLE OF CONTENTS 
@@ -569,7 +569,7 @@ CONCLUSION ....................................................
 10 
 iv 
  
-",http://www.supremecourt.gov/DocketPDF/20/20A87/161064/20201118104326342_20A87acAmericanMedicalAssociationAndMedicalSocietyOfTheStateOfNewYork.pdf,"CONCLUSION 
+",,http://www.supremecourt.gov/DocketPDF/20/20A87/161064/20201118104326342_20A87acAmericanMedicalAssociationAndMedicalSocietyOfTheStateOfNewYork.pdf,"CONCLUSION 
 The AMA and MSSNY sympathize with the Gover-
 nor, who must balance public health with civil liberties 
 in a difficult and fast-changing pandemic, and with the 
@@ -622,7 +622,7 @@ CONCLUSION .....................................................................
  
 ii 
  
-",http://www.supremecourt.gov/DocketPDF/20/20A90/160920/20201117094308962_AU%20et%20al%20amicus%20motion%20with%20brief%20--%20Agudath%20Israel%20v%20Cuomo%20--%20final%20PDFA.pdf,"CONCLUSION 
+",,http://www.supremecourt.gov/DocketPDF/20/20A90/160920/20201117094308962_AU%20et%20al%20amicus%20motion%20with%20brief%20--%20Agudath%20Israel%20v%20Cuomo%20--%20final%20PDFA.pdf,"CONCLUSION 
 If there is one belief widely held among the diverse faiths that Americans hold, 
 it is the great value that they place on human life. E.g., Deuteronomy 30:19–20. The 
 precious right to worship freely should not be misapplied in a manner that 
@@ -649,7 +649,7 @@ Unconstitutional Action Here, but Also to Correct Lower Courts’
 Widespread Misinterpretation of South Bay . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
 CONCLUSION. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
 iv
-",http://www.supremecourt.gov/DocketPDF/20/20A90/161412/20201120134349340_20A90%20Amicus%20First%20Liberty.pdf,"CONCLUSION
+",,http://www.supremecourt.gov/DocketPDF/20/20A90/161412/20201120134349340_20A90%20Amicus%20First%20Liberty.pdf,"CONCLUSION
 For these reasons, the Court should grant emergency relief.
 Respectfully submitted,
 Kelly J. Shackelford
@@ -684,7 +684,7 @@ In The Alternative, The Court Should Grant Certiorari Before
 Judgment And Issue An Injunction Pending Resolution .............................. 17
 CONCLUSION ............................................................................................................. 18
 - ii - 
-",http://www.supremecourt.gov/DocketPDF/20/20A90/161477/20201122083829884_Reply%20Brief%20iso%20Emergency%20Application%20for%20Writ%20of%20Injunction-FINAL.pdf,"CONCLUSION
+",,http://www.supremecourt.gov/DocketPDF/20/20A90/161477/20201122083829884_Reply%20Brief%20iso%20Emergency%20Application%20for%20Writ%20of%20Injunction-FINAL.pdf,"CONCLUSION
 This Court should grant the injunction against the discriminatory Cluster 
 Initiative pending appeal, or, in the alternative, grant certiorari before judgment and 
 then enjoin the Cluster Initiative pending further action from this Court. 
@@ -728,7 +728,7 @@ CONCLUSION .....................................................................
  
  
 iv 
-",http://www.supremecourt.gov/DocketPDF/20/20A94/161949/20201127123735006_No%2020A94%20Harvest%20Rock%20v%20Newsom%20Epidemiologist%20Motion%20and%20Amicus%20Brief%20Nov%2027%202020.pdf,"CONCLUSION 
+",,http://www.supremecourt.gov/DocketPDF/20/20A94/161949/20201127123735006_No%2020A94%20Harvest%20Rock%20v%20Newsom%20Epidemiologist%20Motion%20and%20Amicus%20Brief%20Nov%2027%202020.pdf,"CONCLUSION 
  
 COVID-19 is a serious public health threat. It has already killed almost a 
 quarter of a million Americans. There is a consensus among public health experts 
@@ -761,7 +761,7 @@ CONCLUSION .....................................................................
  
  
 ii 
-",http://www.supremecourt.gov/DocketPDF/20/20A94/162278/20201201180314365_Unopposed%20Motion%20and%20Amicus%20Brief.pdf,"CONCLUSION 
+",,http://www.supremecourt.gov/DocketPDF/20/20A94/162278/20201201180314365_Unopposed%20Motion%20and%20Amicus%20Brief.pdf,"CONCLUSION 
 For the foregoing reasons, South Bay respectfully requests that this Court 
 grant Applicant Harvest Rock’s emergency application for a writ of injunction, 
 protecting both Applicant’s rights and the rights of 40 million suffering Californians. 
@@ -792,5 +792,5 @@ CONCLUSION .....................................................................
  
  
 iii 
-",http://www.supremecourt.gov/DocketPDF/20/20A96/162567/20201203161134064_Danville%20amicus%20brief%20FINAL.pdf,"CONCLUSION 
+",,http://www.supremecourt.gov/DocketPDF/20/20A96/162567/20201203161134064_Danville%20amicus%20brief%20FINAL.pdf,"CONCLUSION 
 This Court should vacate the stay issued by the Sixth Circuit.",,,,sd3592

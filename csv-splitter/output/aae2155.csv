@@ -1,4 +1,4 @@
-Filing Name,Extracted Table of Contents,URL,Conclusion,proper_extraction,classification,salience-rating,annotator-uni
+Filing Name,Extracted Table of Contents,Extracted Arguments from ToC,URL,Conclusion,proper_extraction,classification,salience-rating,annotator-uni
 scotus_filing_34491,"TABLE OF CONTENTS 
  
 MOTION FOR LEAVE TO FILE AMICUS BRIEF AND FOR  
@@ -117,7 +117,7 @@ Dated:  December 8, 2020
  
  
 v 
-",http://www.supremecourt.gov/DocketPDF/20/20A98/162962/20201208084935306_20A98acDemocraticCaucusOfPennsylvaniaSenate.pdf,"CONCLUSION 
+",,http://www.supremecourt.gov/DocketPDF/20/20A98/162962/20201208084935306_20A98acDemocraticCaucusOfPennsylvaniaSenate.pdf,"CONCLUSION 
 For these reasons, the application should be denied. 
 Respectfully submitted, 
  
@@ -154,7 +154,7 @@ CONCLUSION .....................................................................
  
 ii 
  
-",http://www.supremecourt.gov/DocketPDF/20/20A98/163088/20201208152905478_Motion%20to%20Submit%20Amicus%20Brief%20in%20Support%20of%20Application%20for%20Injunction.pdf,"CONCLUSION 
+",,http://www.supremecourt.gov/DocketPDF/20/20A98/163088/20201208152905478_Motion%20to%20Submit%20Amicus%20Brief%20in%20Support%20of%20Application%20for%20Injunction.pdf,"CONCLUSION 
  
 The Pennsylvania Supreme Court violated the Supremacy Clause when it 
 elevated a state-law time bar over the Constitution of the United States. It also 
@@ -208,7 +208,7 @@ CONCLUSION .....................................................................
  
 ii 
  
-",http://www.supremecourt.gov/DocketPDF/20/20A136/167353/20210127092945586_AU%20et%20al%20amicus%20motion%20with%20brief%20--%20S%20Bay%20v%20Newsom%20--%20final%20PDFA.pdf,"CONCLUSION 
+",,http://www.supremecourt.gov/DocketPDF/20/20A136/167353/20210127092945586_AU%20et%20al%20amicus%20motion%20with%20brief%20--%20S%20Bay%20v%20Newsom%20--%20final%20PDFA.pdf,"CONCLUSION 
 The Court should stay true to the original intent and understanding of the 
 precious right of religious free exercise—and to the Court’s long-standing, consistent 
 precedents—by denying the application.",,,,aae2155
@@ -246,7 +246,7 @@ APPENDIX
  
 iii 
  
-",http://www.supremecourt.gov/DocketPDF/20/20A137/167605/20210129104153527_South%20Bay%20and%20Harvest%20Rock%20Amicus%20FINAL.pdf,"CONCLUSION 
+",,http://www.supremecourt.gov/DocketPDF/20/20A137/167605/20210129104153527_South%20Bay%20and%20Harvest%20Rock%20Amicus%20FINAL.pdf,"CONCLUSION 
 This Court should enjoin California’s ban on indoor worship. 
  
  
@@ -264,7 +264,7 @@ CONCLUSION .....................................................................
  
  
 iii 
-",http://www.supremecourt.gov/DocketPDF/20/20A151/175204/20210407175033782_Tandon%20v%20Newsom%20Amicus%20Brief%20by%20The%20Becket%20Fund.pdf,"CONCLUSION 
+",,http://www.supremecourt.gov/DocketPDF/20/20A151/175204/20210407175033782_Tandon%20v%20Newsom%20Amicus%20Brief%20by%20The%20Becket%20Fund.pdf,"CONCLUSION 
 This Court should issue the requested injunction. 
 Respectfully submitted. 
  /s/ E",,,,aae2155
@@ -289,7 +289,7 @@ CONCLUSION .....................................................................
  
  
 ii 
-",http://www.supremecourt.gov/DocketPDF/20/20A167/180508/20210528135819466_2021-05-28%20-%20Motion%20for%20Leave%20to%20File%20and%20AmC%20Brief%20of%20Cherokee%20Nation%20-%20FINAL.pdf,"CONCLUSION 
+",,http://www.supremecourt.gov/DocketPDF/20/20A167/180508/20210528135819466_2021-05-28%20-%20Motion%20for%20Leave%20to%20File%20and%20AmC%20Brief%20of%20Cherokee%20Nation%20-%20FINAL.pdf,"CONCLUSION 
 The State’s application for a stay should be denied. 
 Respectfully submitted, 
  
@@ -319,7 +319,7 @@ CONCLUSION .....................................................................
  
  
 ii 
-",http://www.supremecourt.gov/DocketPDF/20/20A169/181359/20210610165940894_20A169%20Amicus%20Mot.pdf,"CONCLUSION 
+",,http://www.supremecourt.gov/DocketPDF/20/20A169/181359/20210610165940894_20A169%20Amicus%20Mot.pdf,"CONCLUSION 
 This Court should deny the emergency application to vacate the district court’s 
 stay.",,,,aae2155
 scotus_filing_34740,"TABLE OF CONTENTS 
@@ -350,7 +350,7 @@ CONCLUSION .....................................................................
  
  
 vii 
-",http://www.supremecourt.gov/DocketPDF/20/20A169/182678/20210628112000610_Alabama%20Realtors%20v.%20HHS%2020A169%20motion%20and%20brief%20of%20amici%20curiae%20AAP%20et%20al.pdf,"CONCLUSION 
+",,http://www.supremecourt.gov/DocketPDF/20/20A169/182678/20210628112000610_Alabama%20Realtors%20v.%20HHS%2020A169%20motion%20and%20brief%20of%20amici%20curiae%20AAP%20et%20al.pdf,"CONCLUSION 
 The Applicants’ request to overturn the District Court’s stay should be denied. 
  
  
@@ -395,7 +395,7 @@ CONCLUSION .......................................................... 29
  
 iv 
  
-",http://www.supremecourt.gov/DocketPDF/19/19-4/121068/20191101131827181_19-4%20and%2019-13%20Lindenberg%20BIO.pdf,"CONCLUSION 
+",,http://www.supremecourt.gov/DocketPDF/19/19-4/121068/20191101131827181_19-4%20and%2019-13%20Lindenberg%20BIO.pdf,"CONCLUSION 
 For the foregoing reasons, the petitions for writs 
 of certiorari should be denied. 
 Respectfully submitted,  
@@ -434,7 +434,7 @@ G. Military Tribunals at All Levels Routinely
 Declare Laws Unconstitutional . . . . . . . . . . . . . 12
 CONCLUSION. . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
 ii
-",http://www.supremecourt.gov/DocketPDF/19/19-108/128425/20200113161906551_19-108%2019-184%20Amici%20Brief.pdf,"CONCLUSION
+",,http://www.supremecourt.gov/DocketPDF/19/19-108/128425/20200113161906551_19-108%2019-184%20Amici%20Brief.pdf,"CONCLUSION
 Because CAAF had no power to judge the
 constitutionality of Article 120’s death sentence, this
 Court should hold that CAAF erred when it held that
@@ -479,7 +479,7 @@ Conclusion .....................................................................
  
 ii 
  
-",http://www.supremecourt.gov/DocketPDF/19/19-110/100473/20190521121506216_Draft%20REPLY%20Stay%20Application%20FINAL.pdf,"CONCLUSION 
+",,http://www.supremecourt.gov/DocketPDF/19/19-110/100473/20190521121506216_Draft%20REPLY%20Stay%20Application%20FINAL.pdf,"CONCLUSION 
  
 The Court should stay the injunction below and remedial proceedings pending 
 appeal. Alternatively, the Court should stay the injunction and remedial proceedings 
@@ -511,7 +511,7 @@ CONCLUSION............................. ........................ 18
  
 ii 
  
-T",http://www.supremecourt.gov/DocketPDF/19/19-110/111975/20190812133220657_19-70%20Amicus%20Brief%20of%20Stephen%20M.%20Shapiro.pdf,"CONCLUSION 
+T",,http://www.supremecourt.gov/DocketPDF/19/19-110/111975/20190812133220657_19-70%20Amicus%20Brief%20of%20Stephen%20M.%20Shapiro.pdf,"CONCLUSION 
  
  
 The Court should postpone jurisdiction and set 
@@ -576,7 +576,7 @@ CONCLUSION .......................................................... 33
  
  
 iii 
-",http://www.supremecourt.gov/DocketPDF/19/19-123/118679/20191010125014465_No%2019%20123%20Sharonell%20Fulton%20et%20al%20v%20City%20of%20Philadelphia%20Pennsylvania%20et%20al%20Brief%20in%20Opposition%20for%20Intervenor%20Respondents.pdf,"CONCLUSION 
+",,http://www.supremecourt.gov/DocketPDF/19/19-123/118679/20191010125014465_No%2019%20123%20Sharonell%20Fulton%20et%20al%20v%20City%20of%20Philadelphia%20Pennsylvania%20et%20al%20Brief%20in%20Opposition%20for%20Intervenor%20Respondents.pdf,"CONCLUSION 
  
 The Court should deny the petition. 
  
@@ -637,7 +637,7 @@ CONCLUSION .....................................................................
  
  
 ii 
-",http://www.supremecourt.gov/DocketPDF/19/19-220/100491/20190521130334986_FINAL%20-%20Chatfield%20v%20LWV%20-%20Reply%20In%20Supp%20of%20Stay%20-%205_21_19.pdf,"CONCLUSION 
+",,http://www.supremecourt.gov/DocketPDF/19/19-220/100491/20190521130334986_FINAL%20-%20Chatfield%20v%20LWV%20-%20Reply%20In%20Supp%20of%20Stay%20-%205_21_19.pdf,"CONCLUSION 
  
 For the reasons set forth in this Reply, Applicants’ Emergency Motion, and Senate 
 Intervenors’ Emergency Motion, Applicants respectfully request that this Court grant the requested 
@@ -694,7 +694,7 @@ Applied to Its Tests ..............................  20
 CONCLUSION .....................................................  24 
 ii 
  
-",http://www.supremecourt.gov/DocketPDF/19/19-251/116781/20190924125402029_Brief%20of%20Amicus%20Curiae%20Institute%20for%20Justice%20in%20Support%20of%20Petitioners.pdf,"CONCLUSION 
+",,http://www.supremecourt.gov/DocketPDF/19/19-251/116781/20190924125402029_Brief%20of%20Amicus%20Curiae%20Institute%20for%20Justice%20in%20Support%20of%20Petitioners.pdf,"CONCLUSION 
  
 For the reasons stated above, this Court should 
 grant the petition for certiorari. 
@@ -755,7 +755,7 @@ CONCLUSION ......................................................... 20
  
 iii 
  
-",http://www.supremecourt.gov/DocketPDF/19/19-251/116981/20190925130224833_2019.09.25%20TMLCvB%20CERT%20ABR%20Brief%20of%20Amicus%20Curiae%20Proposition%208%20Legal%20Defense%20Fund%20in%20Support%20of%20Petitioners.pdf,"CONCLUSION 
+",,http://www.supremecourt.gov/DocketPDF/19/19-251/116981/20190925130224833_2019.09.25%20TMLCvB%20CERT%20ABR%20Brief%20of%20Amicus%20Curiae%20Proposition%208%20Legal%20Defense%20Fund%20in%20Support%20of%20Petitioners.pdf,"CONCLUSION 
 The real harms suffered by AFPF and the Law 
 Center (as well as amicus Defense Fund) and their 
 donors are not unique or isolated. The testimony of 
@@ -817,7 +817,7 @@ formation ...................................................  24
 CONCLUSION .....................................................  26 
 iii 
  
-",http://www.supremecourt.gov/DocketPDF/19/19-251/117064/20190925154250709_38524%20pdf%20Hong%20II.pdf,"CONCLUSION 
+",,http://www.supremecourt.gov/DocketPDF/19/19-251/117064/20190925154250709_38524%20pdf%20Hong%20II.pdf,"CONCLUSION 
  
 For the forgoing reasons, amici respectfully re-
 quest that this Court grant the petitions for writs of 
@@ -837,7 +837,7 @@ Argument ................................................................... 11
 Conclusion .................................................................. 25 
  
 iii 
-",http://www.supremecourt.gov/DocketPDF/19/19-251/123625/20191125172618870_Brief%20in%20Opposition_FINAL%20FOR%20FILING.pdf,"CONCLUSION 
+",,http://www.supremecourt.gov/DocketPDF/19/19-251/123625/20191125172618870_Brief%20in%20Opposition_FINAL%20FOR%20FILING.pdf,"CONCLUSION 
 The petitions for writs of certiorari should be de-
 nied. 
 Respectfully submitted, 
@@ -894,7 +894,7 @@ CONCLUSION .......................................................... 31
  
  
 ii 
-",http://www.supremecourt.gov/DocketPDF/19/19-251/170083/20210225173920073_19-251%2019-255%20Amicus%20%20Br%20Concerned%20Women%20of%20America%20et%20al.pdf,"CONCLUSION 
+",,http://www.supremecourt.gov/DocketPDF/19/19-251/170083/20210225173920073_19-251%2019-255%20Amicus%20%20Br%20Concerned%20Women%20of%20America%20et%20al.pdf,"CONCLUSION 
  
 After this Court’s decision in CLS, “the right of 
 association bore little resemblance to the right of 
@@ -955,7 +955,7 @@ CONCLUSION .......................................................... 30
 iii 
  
  
-",http://www.supremecourt.gov/DocketPDF/19/19-251/170337/20210301112429633_CEO%20Amicus%20Brief%20-%20AFPF%20v.%20Becerra%20-%20TO%20PRINT%20and%20FILE.pdf,"CONCLUSION 
+",,http://www.supremecourt.gov/DocketPDF/19/19-251/170337/20210301112429633_CEO%20Amicus%20Brief%20-%20AFPF%20v.%20Becerra%20-%20TO%20PRINT%20and%20FILE.pdf,"CONCLUSION 
 This Court should reverse the decision of the 
 United States Court of Appeals for the Ninth Circuit. 
 Respectfully submitted. 

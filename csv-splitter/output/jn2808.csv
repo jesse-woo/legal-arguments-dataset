@@ -1,4 +1,4 @@
-Filing Name,Extracted Table of Contents,URL,Conclusion,proper_extraction,classification,salience-rating,annotator-uni
+Filing Name,Extracted Table of Contents,Extracted Arguments from ToC,URL,Conclusion,proper_extraction,classification,salience-rating,annotator-uni
 scotus_filing_41797,"TABLE OF CONTENTS 
 Table of Authorities ................................................... iv 
 The Interests of Amicus Curiae ................................. 1 
@@ -110,7 +110,7 @@ Conclusion
  
  
 IV 
-",http://www.supremecourt.gov/DocketPDF/19/19-715/130650/20200131155235528_CarteMazarsSJAN31NEW1.pdf,"CONCLUSION 
+",,http://www.supremecourt.gov/DocketPDF/19/19-715/130650/20200131155235528_CarteMazarsSJAN31NEW1.pdf,"CONCLUSION 
 The committees had no subject matter jurisdiction 
 to issue the subpoenas. The judgments of the U.S. 
 Court of Appeals for the District of Columbia and the 
@@ -189,7 +189,7 @@ President’s Ability to Perform His Official
 Duties . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
 CONCLUSION. . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
 iii
-",http://www.supremecourt.gov/DocketPDF/19/19-715/130820/20200203165826654_19-635%2019-715%2019-760%20tsac%20CFC--PFDA.pdf,"CONCLUSION
+",,http://www.supremecourt.gov/DocketPDF/19/19-715/130820/20200203165826654_19-635%2019-715%2019-760%20tsac%20CFC--PFDA.pdf,"CONCLUSION
 It bears emphasis that the impermissibility of the
 State court subpoena in 19-635 is merely an
 additional reason to quash the subpoena in that
@@ -235,7 +235,7 @@ CONCLUSION ...................................................
  
  
 iii 
-",http://www.supremecourt.gov/DocketPDF/19/19-715/132806/20200212132528725_19-715%20and%2019-760%20Brief%20Amicus%20Curiae%20in%20Support%20of%20Petitioners.pdf,"CONCLUSION 
+",,http://www.supremecourt.gov/DocketPDF/19/19-715/132806/20200212132528725_19-715%20and%2019-760%20Brief%20Amicus%20Curiae%20in%20Support%20of%20Petitioners.pdf,"CONCLUSION 
 For its 230 year history, this Court has heeded 
 Judge Montesquieu’s warning about legislative 
 overreach working attainder. When any legislative 
@@ -266,7 +266,7 @@ Clause. ................................................................ 16
 CONCLUSION .......................................................... 20 
  
 ii 
-",http://www.supremecourt.gov/DocketPDF/19/19-715/134759/20200303111708549_PC%20bsac%2019-715%20and%2019-760.pdf,"CONCLUSION 
+",,http://www.supremecourt.gov/DocketPDF/19/19-715/134759/20200303111708549_PC%20bsac%2019-715%20and%2019-760.pdf,"CONCLUSION 
 For the foregoing reasons, the decisions below 
 should be affirmed.",,,,jn2808
 scotus_filing_41817,"TABLE OF CONTENTS 
@@ -296,7 +296,7 @@ CONCLUSION .....................................................
 27
 ii 
  
-",http://www.supremecourt.gov/DocketPDF/19/19-715/134891/20200304103734001_Mazars%2019-715%20-%20Brief%20-%20FINAL.pdf,"CONCLUSION 
+",,http://www.supremecourt.gov/DocketPDF/19/19-715/134891/20200304103734001_Mazars%2019-715%20-%20Brief%20-%20FINAL.pdf,"CONCLUSION 
 For the foregoing reasons, the judgments of the 
 courts of appeals should be affirmed.     
 Respectfully submitted,  
@@ -379,7 +379,7 @@ QUALIFICATIONS .......................................... 1a
  
 iii 
  
-",http://www.supremecourt.gov/DocketPDF/19/19-715/137257/20200306104908350_19-715%20Amicus%20Brief%20of%20Former%20Federal%20Ethics%20Officials.pdf,"CONCLUSION 
+",,http://www.supremecourt.gov/DocketPDF/19/19-715/137257/20200306104908350_19-715%20Amicus%20Brief%20of%20Former%20Federal%20Ethics%20Officials.pdf,"CONCLUSION 
 This Court should affirm the rulings below. 
  
 Respectfully submitted, 
@@ -406,7 +406,7 @@ Solicitor General’s new ‘heightened’ standards for
 legal and practical reasons ............................................ 13 
 Conclusion ................................................................................... 18 
 Appendix: List of amici curiae ................................................... 1a 
-",http://www.supremecourt.gov/DocketPDF/19/19-715/135081/20200304170453249_Nos.%2019-715%2019-760%20Amicus%20Former%20Senior%20DOJ%20Officials.pdf,"CONCLUSION 
+",,http://www.supremecourt.gov/DocketPDF/19/19-715/135081/20200304170453249_Nos.%2019-715%2019-760%20Amicus%20Former%20Senior%20DOJ%20Officials.pdf,"CONCLUSION 
 The judgments of the Courts of Appeals should be af-
 firmed. 
 Respectfully submitted. 
@@ -451,7 +451,7 @@ Congress ...........................................................
  
 ii 
  
-",http://www.supremecourt.gov/DocketPDF/19/19-715/135046/20200304153547722_19-715%2019-760bsacBipartisanFormerMembersOfCongress.pdf,"CONCLUSION 
+",,http://www.supremecourt.gov/DocketPDF/19/19-715/135046/20200304153547722_19-715%2019-760bsacBipartisanFormerMembersOfCongress.pdf,"CONCLUSION 
 The judgments of the courts of appeals should be 
 affirmed. 
 Respectfully submitted. 
@@ -506,7 +506,7 @@ ii
  
  
  
-",http://www.supremecourt.gov/DocketPDF/19/19-715/134984/20200304134858976_19-715%20bsac%20Former%20House%20GC%20and%20Staffer%20.pdf,"CONCLUSION 
+",,http://www.supremecourt.gov/DocketPDF/19/19-715/134984/20200304134858976_19-715%20bsac%20Former%20House%20GC%20and%20Staffer%20.pdf,"CONCLUSION 
 The decisions below should be affirmed.  Moreover, 
 this Court should immediately order enforcement of the 
 subpoenas during the Court’s consideration. 
@@ -578,7 +578,7 @@ Conclusion .....................................................................
  
 iii 
  
-",http://www.supremecourt.gov/DocketPDF/19/19-715/134900/20200304110834116_19-715%20and%2019-760_Amici%20Brief%20in%20Support%20of%20Respondents.pdf,"CONCLUSION 
+",,http://www.supremecourt.gov/DocketPDF/19/19-715/134900/20200304110834116_19-715%20and%2019-760_Amici%20Brief%20in%20Support%20of%20Respondents.pdf,"CONCLUSION 
 The judgments of the courts of appeals should be  
 affirmed. 
 Respectfully submitted. 
@@ -637,7 +637,7 @@ CONCLUSION ........................................................ 18
 ii 
  
  
-",http://www.supremecourt.gov/DocketPDF/19/19-715/135089/20200304190233256_Niskanen%20Center%20et%20al%20Amici%20Brief%20ISO%20Respondents.pdf,"CONCLUSION 
+",,http://www.supremecourt.gov/DocketPDF/19/19-715/135089/20200304190233256_Niskanen%20Center%20et%20al%20Amici%20Brief%20ISO%20Respondents.pdf,"CONCLUSION 
 The power of Congress to issue subpoenas to 
 gather evidence to perform its legislative functions is 
 a crucial part of our constitutional democracy and its 
@@ -685,7 +685,7 @@ CONCLUSION .......................................................... 15
  
  
 ii 
-",http://www.supremecourt.gov/DocketPDF/19/19-840/143354/20200512161339364_19-840%2019-1019%20tsac%20Public%20Citizen.pdf,"CONCLUSION 
+",,http://www.supremecourt.gov/DocketPDF/19/19-840/143354/20200512161339364_19-840%2019-1019%20tsac%20Public%20Citizen.pdf,"CONCLUSION 
 The Court should reverse the judgment of the Fifth 
 Circuit. 
 Respectfully submitted, 
@@ -756,7 +756,7 @@ CONCLUSION ......................................................... 37
 APPENDIX (List of additional amici curiae) .......... 1a 
 iii 
  
-",http://www.supremecourt.gov/DocketPDF/19/19-840/143475/20200513154042300_NWLC%20ACA%20Amicus%20Brief%20Final.pdf,"CONCLUSION 
+",,http://www.supremecourt.gov/DocketPDF/19/19-840/143475/20200513154042300_NWLC%20ACA%20Amicus%20Brief%20Final.pdf,"CONCLUSION 
  
 There is no evidence that Congress, in lowering the 
 tax associated with the individual-responsibility pro-
@@ -799,7 +799,7 @@ Constitutional Defect Must Be Severed. .......... 21
 CONCLUSION .......................................................... 25 
  
 - ii - 
-",http://www.supremecourt.gov/DocketPDF/19/19-840/143447/20200513141417257_19-840%2019-1019%20tsac%20HCA%20Healthcare%20Inc..pdf,"CONCLUSION 
+",,http://www.supremecourt.gov/DocketPDF/19/19-840/143447/20200513141417257_19-840%2019-1019%20tsac%20HCA%20Healthcare%20Inc..pdf,"CONCLUSION 
 The judgment of the court of appeals should be re-
 versed. 
  
@@ -852,7 +852,7 @@ List of Amici Curiae ............................................ 1a
  
 iv 
  
-",http://www.supremecourt.gov/DocketPDF/19/19-840/143434/20200513135345489_19-840%20tsac%20Health%20Care%20Policy%20Scholars.pdf,"CONCLUSION  
+",,http://www.supremecourt.gov/DocketPDF/19/19-840/143434/20200513135345489_19-840%20tsac%20Health%20Care%20Policy%20Scholars.pdf,"CONCLUSION  
 For the foregoing reasons, the judgment of the 
 court of appeals should be reversed. 
 Respectfully submitted,  
@@ -928,7 +928,7 @@ CONCLUSION ......................................................... 39 
  
  
 iii 
-",http://www.supremecourt.gov/DocketPDF/19/19-840/143392/20200513104313493_19-840%20%2019-1019%20tsac%20ACHP%20Et%20Al_.pdf,"CONCLUSION 
+",,http://www.supremecourt.gov/DocketPDF/19/19-840/143392/20200513104313493_19-840%20%2019-1019%20tsac%20ACHP%20Et%20Al_.pdf,"CONCLUSION 
 The Court should reverse the Fifth Circuit’s 
 decision in its entirety.  But should the Court reach 
 the issue of severability, it should hold that the 
@@ -989,7 +989,7 @@ Appendix .................................................................... 1a
 ii 
  
  
-",http://www.supremecourt.gov/DocketPDF/19/19-840/143385/20200513102459194_19-840.19-1019.amicus.pdf,"CONCLUSION 
+",,http://www.supremecourt.gov/DocketPDF/19/19-840/143385/20200513102459194_19-840.19-1019.amicus.pdf,"CONCLUSION 
 The Court should hold that the individual man-
 date, if unlawful, is severable. 
 Respectfully submitted. 
@@ -1026,7 +1026,7 @@ CONCLUSION .....................................................
  
 ii 
  
-",http://www.supremecourt.gov/DocketPDF/19/19-840/143388/20200513104041259_PCORI%20Amicus.pdf,"CONCLUSION 
+",,http://www.supremecourt.gov/DocketPDF/19/19-840/143388/20200513104041259_PCORI%20Amicus.pdf,"CONCLUSION 
 The provisions of the ACA addressing PCORI are 
 severable from any unconstitutional or invalid 
 provision of that Act.  
@@ -1101,7 +1101,7 @@ In
 Today’s Individual Market ............................. 29
 CONCLUSION .......................................................... 34
 ii 
-",http://www.supremecourt.gov/DocketPDF/19/19-840/143391/20200513104715600_19-840-19-1019-AmericasHealthInsurancePlansAmicus.pdf,"CONCLUSION 
+",,http://www.supremecourt.gov/DocketPDF/19/19-840/143391/20200513104715600_19-840-19-1019-AmericasHealthInsurancePlansAmicus.pdf,"CONCLUSION 
 Over the course of a decade, the ACA has 
 fundamentally reshaped the nation’s health care 
 system.  Congress in 2017 chose not to disturb that 
@@ -1147,7 +1147,7 @@ INDEPENDENT OF THE INDIVIDUAL
 MANDATE. . . . . . . . . . . . . . . . . . . . . . . . . . . 17
 CONCLUSION. . . . . . . . . . . . . . . . . . . . . . . . . . . . . 29
 ii
-",http://www.supremecourt.gov/DocketPDF/19/19-840/143462/20200513144457835_19-840%20-1019%20Amici%20BOM%20National%20Health%20Law%20Program.pdf,"CONCLUSION
+",,http://www.supremecourt.gov/DocketPDF/19/19-840/143462/20200513144457835_19-840%20-1019%20Amici%20BOM%20National%20Health%20Law%20Program.pdf,"CONCLUSION
 No matter what it does with the ACA’s minimum-
 coverage provision, the Court should preserve the
 improvements the ACA has made to the Medicaid

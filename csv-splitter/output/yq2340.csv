@@ -1,4 +1,4 @@
-Filing Name,Extracted Table of Contents,URL,Conclusion,proper_extraction,classification,salience-rating,annotator-uni
+Filing Name,Extracted Table of Contents,Extracted Arguments from ToC,URL,Conclusion,proper_extraction,classification,salience-rating,annotator-uni
 scotus_filing_42926,"TABLE OF CONTENTS 
 Page 
 TABLE OF AUTHORITIES ..................................... iii 
@@ -25,7 +25,7 @@ CONCLUSION .......................................................... 12
  
 ii 
  
-",http://www.supremecourt.gov/DocketPDF/19/19-840/146827/20200702111553329_19-840%20and%2019-1019%20ACLJ%20amicus%20brief.pdf,"CONCLUSION 
+",,http://www.supremecourt.gov/DocketPDF/19/19-840/146827/20200702111553329_19-840%20and%2019-1019%20ACLJ%20amicus%20brief.pdf,"CONCLUSION 
  
 Amicus respectfully requests that this Court 
 affirm in part and reverse in part the judgment of the 
@@ -58,7 +58,7 @@ CONCLUSION .......................................................... 24
 ii 
  
   
-",http://www.supremecourt.gov/DocketPDF/19/19-840/148931/20200729105222046_19-840%20rb%20House%20of%20Representatives.pdf,"CONCLUSION 
+",,http://www.supremecourt.gov/DocketPDF/19/19-840/148931/20200729105222046_19-840%20rb%20House%20of%20Representatives.pdf,"CONCLUSION 
 The judgment of the court of appeals should be re-
 versed. 
 Respectfully submitted, 
@@ -72,7 +72,7 @@ INTRODUCTION ........................................................ 1
 ARGUMENT ............................................................... 2 
 CONCLUSION ............................................................ 8 
 iii 
-",http://www.supremecourt.gov/DocketPDF/19/19-914/139618/20200401130319232_19-914%20Cross-Petition%20Reply%204-1%20Final.pdf,"CONCLUSION 
+",,http://www.supremecourt.gov/DocketPDF/19/19-914/139618/20200401130319232_19-914%20Cross-Petition%20Reply%204-1%20Final.pdf,"CONCLUSION 
 If the Court grants the FTC’s petition (No. 19-825), 
 this conditional cross-petition should also be granted. 
 Respectfully submitted, 
@@ -110,7 +110,7 @@ Respondents’ claims of harm from the stay are not credible, and
 a stay clearly promotes the public interest. .......................................... 14
 CONCLUSION ............................................................................................................. 15
 vii
-",http://www.supremecourt.gov/DocketPDF/19/19-1010/134418/20200228102712679_Generics%20MDL%20-%20SCT%20-%20Stay%20Reply%20-%20FINAL.pdf,"CONCLUSION 
+",,http://www.supremecourt.gov/DocketPDF/19/19-1010/134418/20200228102712679_Generics%20MDL%20-%20SCT%20-%20Stay%20Reply%20-%20FINAL.pdf,"CONCLUSION 
 For the foregoing reasons, the application for a stay should be granted.",,,,yq2340
 scotus_filing_44912,"TABLE OF CONTENTS 
  
@@ -167,7 +167,7 @@ CONCLUSION .......................................................... 22
  
 ii 
  
-",http://www.supremecourt.gov/DocketPDF/19/19-1066/139370/20200327174503146_DRI%20Amicus%20Brief_Tillage%20and%20Ardle%20PDF-A.pdf,"CONCLUSION 
+",,http://www.supremecourt.gov/DocketPDF/19/19-1066/139370/20200327174503146_DRI%20Amicus%20Brief_Tillage%20and%20Ardle%20PDF-A.pdf,"CONCLUSION 
 For the foregoing reasons and those stated in the 
 petitions, the McArdle and Tillage petitions for a writ 
 of certiorari should be granted. 
@@ -222,7 +222,7 @@ this Court’s FAA Precedents ...............  19
 CONCLUSION .....................................................  25 
 ii 
  
-",http://www.supremecourt.gov/DocketPDF/19/19-1078/139450/20200330145019835_Chamber%20of%20Commerce%20et%20al.%20Amicus%20Brief%20ISO%20Petitioners.pdf,"CONCLUSION 
+",,http://www.supremecourt.gov/DocketPDF/19/19-1078/139450/20200330145019835_Chamber%20of%20Commerce%20et%20al.%20Amicus%20Brief%20ISO%20Petitioners.pdf,"CONCLUSION 
  
 For these reasons and those in the petitions for 
 writs of certiorari, the petitions should be granted. 
@@ -279,7 +279,7 @@ Credibility
 Findings Will Not Yield Adverse Effects ............. 27
 CONCLUSION ................................................................. 29
 iii 
-",http://www.supremecourt.gov/DocketPDF/19/19-1155/165884/20210111140728016_19-1155%20Amici%20Curiae%20in%20support%20of%20respondents.pdf,"CONCLUSION 
+",,http://www.supremecourt.gov/DocketPDF/19/19-1155/165884/20210111140728016_19-1155%20Amici%20Curiae%20in%20support%20of%20respondents.pdf,"CONCLUSION 
 For the foregoing reasons, amici curiae urge the 
 Court to affirm the Ninth Circuit’s judgments. 
 January 11, 2021 
@@ -397,7 +397,7 @@ CONCLUSION ....................................................... 29
  
  
 iii 
-",http://www.supremecourt.gov/DocketPDF/19/19-1155/165838/20210111124942249_Dai%20Amicus%20Brief%20FINAL%2001-11-2021.pdf,"CONCLUSION 
+",,http://www.supremecourt.gov/DocketPDF/19/19-1155/165838/20210111124942249_Dai%20Amicus%20Brief%20FINAL%2001-11-2021.pdf,"CONCLUSION 
 For the foregoing reasons, this Court should affirm 
 the judgments of the court of appeals regarding 
 credibility determinations. 
@@ -467,7 +467,7 @@ legislative expertise .............................  22
 CONCLUSION .....................................................  25 
 ii 
  
-",http://www.supremecourt.gov/DocketPDF/21/21-12/186943/20210806160526624_08-06-2021%20CLC%20Amicus%20brief_FEC%20v.%20Cruz_FINAL.pdf,"CONCLUSION 
+",,http://www.supremecourt.gov/DocketPDF/21/21-12/186943/20210806160526624_08-06-2021%20CLC%20Amicus%20brief_FEC%20v.%20Cruz_FINAL.pdf,"CONCLUSION 
  
 The judgment of the district court should be sum-
 marily reversed, and the case remanded to the district 
@@ -509,7 +509,7 @@ CONCLUSION .......................................................... 38
  
 iv 
  
-",http://www.supremecourt.gov/DocketPDF/19/19-1231/148228/20200721115425325_FCC%20v.%20Prometheus%20BIO%20July%2021%20as%20filed.pdf,"CONCLUSION 
+",,http://www.supremecourt.gov/DocketPDF/19/19-1231/148228/20200721115425325_FCC%20v.%20Prometheus%20BIO%20July%2021%20as%20filed.pdf,"CONCLUSION 
 The petitions for writs of certiorari should be 
 denied.  
  
@@ -548,7 +548,7 @@ CONCLUSION ........................................................ 23
 ii 
  
  
-",http://www.supremecourt.gov/DocketPDF/19/19-1231/161576/20201123151624955_Phoenix%20Center%20Media%20Ownership%20Amicus%20Brief%20Final.pdf,"CONCLUSION 
+",,http://www.supremecourt.gov/DocketPDF/19/19-1231/161576/20201123151624955_Phoenix%20Center%20Media%20Ownership%20Amicus%20Brief%20Final.pdf,"CONCLUSION 
 For the foregoing reasons, we join with Petition-
 ers and ask this Court to reverse the Third Circuit’s 
 ruling below. 
@@ -582,7 +582,7 @@ CONCLUSION .......................................................... 17
 ii 
  
  
-",http://www.supremecourt.gov/DocketPDF/19/19-1231/161572/20201123151040667_19-1231%20-1241%20tsac%20Southeastern%20Legal%20Foundation.pdf,"CONCLUSION 
+",,http://www.supremecourt.gov/DocketPDF/19/19-1231/161572/20201123151040667_19-1231%20-1241%20tsac%20Southeastern%20Legal%20Foundation.pdf,"CONCLUSION 
  
 The Court should reverse the decision below.  
  
@@ -652,7 +652,7 @@ BROADCAST OUTLETS BY WOMEN
 AND MINORITIES ...................................... 31 
 CONCLUSION ......................................................... 34 
 iii 
-",http://www.supremecourt.gov/DocketPDF/19/19-1231/161570/20201123150647329_19-1231.19-1241%20Amici%20Curiae%20Brief.pdf,"CONCLUSION 
+",,http://www.supremecourt.gov/DocketPDF/19/19-1231/161570/20201123150647329_19-1231.19-1241%20Amici%20Curiae%20Brief.pdf,"CONCLUSION 
  
 For the foregoing reasons, the decision of the 
 United States Court of Appeals for the Third Circuit 
@@ -702,7 +702,7 @@ Conclusion..……………….………………………….….25
 ii 
  
  
-",http://www.supremecourt.gov/DocketPDF/19/19-1231/161539/20201123133020436_19-1231%20and%2019-1241tsacAmericansForProsperityFoundation.pdf,"CONCLUSION 
+",,http://www.supremecourt.gov/DocketPDF/19/19-1231/161539/20201123133020436_19-1231%20and%2019-1241tsacAmericansForProsperityFoundation.pdf,"CONCLUSION 
 For these reasons, this Court should reverse the 
 judgment below.   
  
@@ -738,7 +738,7 @@ Conclusion ................................................................. 22
  
  
 ii 
-",http://www.supremecourt.gov/DocketPDF/19/19-1231/164487/20201222134405561_Prometheus%20amicus%20brief.pdf,"CONCLUSION 
+",,http://www.supremecourt.gov/DocketPDF/19/19-1231/164487/20201222134405561_Prometheus%20amicus%20brief.pdf,"CONCLUSION 
 The Court should affirm the judgment of the court 
 of appeals.",,,,yq2340
 scotus_filing_46440,"TABLE OF CONTENTS 
@@ -789,7 +789,7 @@ CONCLUSION .....................................................
 APPENDIX ...........................................................  
 1A 
 ii 
-",http://www.supremecourt.gov/DocketPDF/19/19-1231/164537/20201223081356891_FCC%20v.%20Prometheus%20Amicus%20FINAL.pdf,"CONCLUSION 
+",,http://www.supremecourt.gov/DocketPDF/19/19-1231/164537/20201223081356891_FCC%20v.%20Prometheus%20Amicus%20FINAL.pdf,"CONCLUSION 
 For the foregoing reasons, the judgments of the 
 court below should be affirmed. 
  
@@ -829,7 +829,7 @@ CONCLUSION .......................................................... 31
 ii 
  
  
-",http://www.supremecourt.gov/DocketPDF/19/19-1231/164676/20201223154226194_Former%20FCC%20Commissioners%20Amicus%20Brief.pdf,"CONCLUSION 
+",,http://www.supremecourt.gov/DocketPDF/19/19-1231/164676/20201223154226194_Former%20FCC%20Commissioners%20Amicus%20Brief.pdf,"CONCLUSION 
 The Court should affirm the Third Circuit’s 
 judgment. 
  
@@ -852,7 +852,7 @@ APPENDIX — LIST OF AMICI CURIAE.................. A1
  
  
 ii 
-",http://www.supremecourt.gov/DocketPDF/19/19-1231/164644/20201223142312855_2020.12.22%20Leadership%20Conference%20Amicus%20Brief%20Final.pdf,"CONCLUSION  
+",,http://www.supremecourt.gov/DocketPDF/19/19-1231/164644/20201223142312855_2020.12.22%20Leadership%20Conference%20Amicus%20Brief%20Final.pdf,"CONCLUSION  
 Amici urge the Court to affirm. 
 Respectfully submitted, 
 VANITA GUPTA 
@@ -915,7 +915,7 @@ Jurisdiction ................................................... 22
 CONCLUSION .......................................................... 25 
 iii 
  
-",http://www.supremecourt.gov/DocketPDF/19/19-1231/165658/20210108100834045_NAB%20v.%20Prometheus%20Merits%20Reply%20Brief%20FINAL.pdf,"CONCLUSION 
+",,http://www.supremecourt.gov/DocketPDF/19/19-1231/165658/20210108100834045_NAB%20v.%20Prometheus%20Merits%20Reply%20Brief%20FINAL.pdf,"CONCLUSION 
 This Court should reverse the decision below and 
 instruct the Third Circuit to deny Respondents’ 
 petitions for review. 
@@ -974,7 +974,7 @@ Production In Small And Mid-Sized
 Markets............................................................. 23 
 CONCLUSION ............................................................ 26 
 II 
-",http://www.supremecourt.gov/DocketPDF/19/19-1241/143934/20200520153901663_39832%20Anderson%20Brief.pdf,"CONCLUSION 
+",,http://www.supremecourt.gov/DocketPDF/19/19-1241/143934/20200520153901663_39832%20Anderson%20Brief.pdf,"CONCLUSION 
 The Court should grant the petitions for writs of 
 certiorari. 
  

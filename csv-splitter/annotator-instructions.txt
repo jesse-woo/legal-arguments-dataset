@@ -31,11 +31,11 @@ e.g. Roman numerals and capital letters.
 
 (2) Classify the outcome of the brief. We will provide some examples for all of you. 
 - Write exactly one of [Affirm, Reverse, Remand, Grant, Deny, Other]. Use 'Other'
-if you are not sure, or if there is substantial amiguity. 
+if you are not sure, or if there is substantial ambiguity. 
 - In general, the outcome that each brief is arguing for should be explicitly stated in the conclusion.
 So start by looking for one of the terms within the text of the conclusion.
 - Affirm means to agree with the lower court, and maintain that court's decision.
-- Reverse means to disagree with the lower court, and to change the outcome of thair decision in some way.
+- Reverse means to disagree with the lower court, and to change the outcome of their decision in some way.
 - Remand means to send the decision back down to the lower court with further instructions, often to flesh out
 some issue of importance.
 - Grant means to give the requesting party what they are asking for in the law.
@@ -61,7 +61,7 @@ Summary of the Argument ..................................
 Argument .............................................................  
 5 
 I.      Plaintiff obtained insurance based on fraud or 
-mistatement of a material fact................
+misstatement of a material fact................
 5
 A.  When Plaintiff applied for insurance for his car, 
 his statement written to the insurance agent representing 
@@ -69,7 +69,7 @@ Defendant stated that he had never had his
 insurance cancelled or refused............
 5
 B.  Prior to this, another insurance agent for the Defendant, 
-Mr. Lilly, had refused to write an insuranc policy for the 
+Mr. Lilly, had refused to write an insurance policy for the 
 Plaintiff because Plaintiff had previously had an 
 insurance policy cancelled................
 7
@@ -105,11 +105,11 @@ Response: True
 
 Task (1) Extract the arguments and paste them in this form
 Response:
-I. Plaintiff obtained insurance based on fraud or mistatement of a material fact.
+I. Plaintiff obtained insurance based on fraud or misstatement of a material fact.
 
 A. When Plaintiff applied for insurance for his car, his statement written to the insurance agent representing Defendant stated that he had never had his insurance cancelled or refused.
 
-B. Prior to this, another insurance agent for the Defendant, Mr. Lilly had refused to write an insuranc policy for the Plaintiff because Plaintiff had previously had an insurance policy cancelled.
+B. Prior to this, another insurance agent for the Defendant, Mr. Lilly had refused to write an insurance policy for the Plaintiff because Plaintiff had previously had an insurance policy cancelled.
 
 II. Plaintiff's prior insurance history was a material fact because it would have impacted Plaintiff's insurance rate or even his ability to obtain insurance.
 
@@ -183,3 +183,5 @@ Response: 2
 Researcher's Note: Here, while the reasoning is laid out in clear steps and the conclusion 
 does follow somewhat from these steps, there is little detail and the reasoning 
 steps are rather disconnected. Therefore we would rate this as a 2, for low salience. 
+
+Thanks again, and please reach out to me or Nikhil with any issues or questions!
