@@ -21,7 +21,7 @@ for filename in os.listdir(folder_path):
 combined_data = pd.concat(dfs, ignore_index=True)
 
 # Keep only the specified headers in the target DataFrame
-target_headers = ["Filing Name", "URL", "proper_extraction", "classification", "salience-rating", "annotator-uni"]
+target_headers = ["Filing Name", "Extracted Arguments from ToC", "Conclusion", "URL", "proper_extraction", "classification", "salience-rating", "annotator-uni"]
 combined_data = combined_data[target_headers]
 
 # Save the combined data to a new CSV file in the "annotated-dataset/" folder
