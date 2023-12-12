@@ -66,3 +66,8 @@ precision, recall, f1, _ = precision_recall_fscore_support(true_labels, predicte
 print(f"Precision: {precision:.4f}")
 print(f"Recall: {recall:.4f}")
 print(f"F1-score: {f1:.4f}")
+
+# Print unique values in Llama2's classification predictions
+unique_values_llama2 = predicted_labels_llama2.unique()
+print("\nUnique values in Llama2's classification predictions:")
+print(unique_values_llama2)
