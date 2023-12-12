@@ -21,6 +21,9 @@ def match_label(value):
 # Apply fuzzy matching to the 'classification' column
 data['classification'] = data['classification'].apply(match_label)
 
+# Drop rows with missing values in the 'salience-rating' column
+data = data.dropna(subset=['salience-rating'])
+
 # Extract unique values of the 'classification' column after mapping
 unique_classification = data['classification'].unique()
 
@@ -31,4 +34,4 @@ print("Unique standardized values of 'classification':", unique_classification)
 standardized_file_path = "annotated-dataset/human-annotated-data-standardized.csv"
 data.to_csv(standardized_file_path, index=False)
 
-print(f"Data has been standardized and saved to {standardized_file_path}.")
+print(f"Data has been standardized and rows without salience rating have been dropped. The updated data is saved to {standardized_file_path}.")
