@@ -1,17 +1,26 @@
 import pandas as pd
 
-# Set the path to the CSV file
-csv_file_path = "annotated-dataset/human-annotated-data-raw.csv"
+# Set the path to the standardized CSV file
+standardized_file_path = "annotated-dataset/human-annotated-data-standardized.csv"
 
-# Read the CSV file into a DataFrame
-data = pd.read_csv(csv_file_path)
+data = pd.read_csv(standardized_file_path)
 
-# Extract unique values of specified columns
-unique_proper_extraction = data["proper_extraction"].unique()
-unique_classification = data["classification"].unique()
-unique_salience_rating = data["salience-rating"].unique()
+numeric_stats = data.describe()
 
-# Print the unique values
-print("Unique values of 'proper_extraction':", unique_proper_extraction)
-print("Unique values of 'classification':", unique_classification)
-print("Unique values of 'salience-rating':", unique_salience_rating)
+classification_stats = data['classification'].value_counts()
+salience_stats = data['salience-rating'].value_counts()
+
+classification_salience_relationship = data.groupby(['classification', 'salience-rating']).size()
+
+# Print the results
+print("Descriptive Statistics for Numeric Columns:")
+print(numeric_stats)
+
+print("\nClassification Counts:")
+print(classification_stats)
+
+print("\nSalience Rating Counts:")
+print(salience_stats)
+
+print("\nClassification and Salience Relationship:")
+print(classification_salience_relationship)
