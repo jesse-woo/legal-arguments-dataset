@@ -1,0 +1,752 @@
+Consider the following example inputs and outputs for how to extract arguments from a table of contents from a legal brief. 
+Instructions for a text extraction task will follow after the examples.
+<Examples Start>
+Example Input 1: 
+TABLE OF CONTENTS
+COUNTERSTATEMENT OF QUESTION
+PRESENTED .............................................................. i
+OPPOSITION TO PETITION FOR A WRIT
+OF CERTIORARI ........................................................1
+STATEMENT OF THE CASE ....................................2
+A. Statutory and Factual Background .................2
+B. Procedural History ...........................................5
+REASONS FOR DENYING THE PETITION............8
+I.
+
+THE DECISION BELOW IS ENTIRELY
+CONSISTENT WITH THIS COURT'S
+PRECEDENTS ....................................................8
+A. The Courts Below Correctly Applied Chevron Deference to PBGC's Interpretations of
+ERISA in its Benefit Determination ............ 9
+B. The Courts Below Correctly Applied Chevron Deference to the PBGC Appeals Board's
+Determination ............................................. 13
+
+II.
+
+THE FACT THAT OTHER CIRCUITS
+MIGHT NOT ADDRESS THE QUESTION
+PRESENTED DOES NOT ELEVATE ITS
+SIGNIFICANCE ...............................................19
+
+iii
+
+III. THIS CASE DOES NOT PRESENT AN
+'EXCEPTIONALLY IMPORTANT'
+QUESTION ABOUT PBGC'S PURPORTED
+SELF-INTEREST .............................................21
+IV. THIS CASE SERVES AS NO SPECIAL
+VEHICLE FOR THIS COURT'S REVIEW ......22
+CONCLUSION ..........................................................23
+
+iv
+
+Example Output 1:
+I. THE DECISION BELOW IS ENTIRELY CONSISTENT WITH THIS COURT'S PRECEDENTS
+	A. The Courts Below Correctly Applied Chevron Deference to PBGC's Interpretations of
+ERISA in its Benefit Determination
+	B. The Courts Below Correctly Applied Chevron Deference to the PBGC Appeals Board's
+Determination
+
+II. THE FACT THAT OTHER CIRCUITS MIGHT NOT ADDRESS THE QUESTION PRESENTED DOES NOT ELEVATE ITS SIGNIFICANCE
+
+III. THIS CASE DOES NOT PRESENT AN 'EXCEPTIONALLY IMPORTANT' QUESTION ABOUT PBGC'S PURPORTED SELF-INTEREST
+
+IV. THIS CASE SERVES AS NO SPECIAL VEHICLE FOR THIS COURT'S REVIEW
+
+Example Input 2:
+TABLE OF CONTENTS
+Page
+TABLE OF AUTHORITIES ...................................... ii
+INTRODUCTION .......................................................1
+ARGUMENT ...............................................................2
+I.
+
+PBGC ADMITS THAT THE QUESTION
+PRESENTED IS 'CRITICALLY IMPORTANT' ..........................................................2
+
+II.
+
+PBGC ADMITS THAT THE QUESTION
+PRESENTED CAN ARISE ONLY IN
+THE D.C. CIRCUIT, WHOSE POSITION IS FIRMLY ENTRENCHED....................6
+
+III. PBGC CONCEDES THERE ARE NO
+VEHICLE PROBLEMS ......................................8
+IV. THE COURT'S GRANT OF CERTIORARI IN AMERICAN HOSPITAL
+ASSOCIATION REINFORCES THE
+CERT-WORTHINESS OF THIS PETITION ..................................................................10
+CONCLUSION ..........................................................11
+
+ii
+
+Example Output 2:
+I. PBGC ADMITS THAT THE QUESTION PRESENTED IS 'CRITICALLY IMPORTANT'
+
+II. PBGC ADMITS THAT THE QUESTION PRESENTED CAN ARISE ONLY IN THE D.C. CIRCUIT, WHOSE POSITION IS FIRMLY ENTRENCHED
+
+III. PBGC CONCEDES THERE ARE NO VEHICLE PROBLEMS
+
+IV. THE COURT'S GRANT OF CERTIORARI IN AMERICAN HOSPITAL ASSOCIATION REINFORCES THE CERT-WORTHINESS OF THIS PETITION
+
+Example Input 3:
+TABLE OF CONTENTS
+QUESTIONS PRESENTED
+
+.................................... i
+
+PARTIES TO THE PROCEEDING .......................... ii
+STATEMENT OF RELATED PROCEEDINGS ...... iii
+TABLE OF AUTHORITIES .................................... vii
+PETITION FOR WRIT OF CERTIORARI ............... 1
+OPINIONS BELOW .................................................. 5
+JURISDICTION ........................................................ 5
+CONSTITUTIONAL, STATUTORY, AND
+REGULATORY PROVISIONS INVOLED ............ 5
+STATEMENT OF THE CASE .................................. 6
+A. The Medical Establishment's History of
+Treating Children with Down Syndrome Has
+Been 'Dominated by Discrimination.' ........... 6
+B. Missouri's Down Syndrome Provision ......... 12
+C. Missouri's Gestational Age Restrictions ...... 14
+D. Lower Court Proceedings ............................. 15
+REASONS FOR GRANTING THE PETITION ..... 18
+I. The Court Should Resolve the Circuit Split on
+Whether a State May Restrict Abortions Obtained
+Solely Because the Unborn Child May Have Down
+Syndrome ............................................................ 18
+A. There are compelling reasons to review this
+question, and this case presents an ideal
+vehicle to do so .............................................. 18
+B. The Eighth Circuit's resolution of this question
+was erroneous ............................................... 21
+
+v
+II. The Court Should Review the Validity of
+Missouri's Gestational Age Restrictions or Hold
+That Question for Dobbs .................................... 31
+III.The 'Penumbral' Right to Abortion Recognized in
+Roe and Casey Should Be Overruled ................. 32
+CONCLUSION ........................................................ 35
+APPENDIX
+Appendix A
+Opinion, United States Court of Appeals for the
+Eighth Circuit, Reproductive Health Services of
+Planned Parenthood of the St. Louis Region, Inc. v.
+Governor Michael L. Parson, et al.
+(June 9, 2021) ..................................................... 1a
+Appendix B
+Supplemental Order Regarding Down Syndrome,
+United States District Court for the Western
+District
+of
+Missouri,
+Central
+Division,
+Reproductive Health Services of Planned
+Parenthood of the St. Louis Region, Inc. v. Michael
+L. Parson, No. 2:19-cv-4155-HFS
+(September 27, 2019) ....................................... 31a
+Appendix C
+Corrected Memorandum and Order, United States
+District Court for the Western District of Missouri,
+Central Division, Reproductive Health Services of
+Planned Parenthood of the St. Louis Region, Inc. v.
+Michael L. Parson, No. 2:19-cv-4155-HFS
+(August 27, 2019) ............................................. 38a
+Appendix D
+U.S. Const. amend. XIV ................................... 55a
+Appendix E
+Section 188.026, RSMo .................................... 57a
+
+vi
+Appendix F
+Section 188.038, RSMo
+Appendix G
+Section 188.056, RSMo
+Appendix H
+Section 188.057, RSMo
+Appendix I
+Section 188.058, RSMo
+Appendix J
+Section 188.375, RSMo
+
+.................................... 71a
+................................... 74a
+.................................... 76a
+.................................... 78a
+.................................... 80a
+
+vii
+
+Example Output 3:
+I. The Court Should Resolve the Circuit Split on Whether a State May Restrict Abortions Obtained Solely Because the Unborn Child May Have Down Syndrome
+	A. There are compelling reasons to review this question, and this case presents an ideal vehicle to do so
+	B. The Eighth Circuit's resolution of this question was erroneous
+
+II. The Court Should Review the Validity of Missouri's Gestational Age Restrictions or Hold That Question for Dobbs
+
+III.The 'Penumbral' Right to Abortion Recognized in Roe and Casey Should Be Overruled
+
+Example Input 4:
+TABLE OF CONTENTS
+Page
+QUESTION PRESENTED .......................................... i
+PARTIES TO THE PROCEEDING ........................... ii
+RULE 29.6 DISCLOSURE STATEMENT ................iii
+RELATED PROCEEDINGS .....................................iii
+TABLE OF CONTENTS............................................ iv
+TABLE OF AUTHORITIES .................................... viii
+OPINIONS BELOW ................................................... 2
+JURISDICTION ......................................................... 2
+CONSTITUTIONAL
+AND
+STATUTORY
+PROVISIONS INVOLVED......................................... 3
+INTRODUCTION ....................................................... 6
+STATEMENT OF THE CASE ................................. 10
+A.
+
+Background ............................................... 10
+
+B.
+
+Constitutional objections .......................... 11
+
+C.
+
+Evidentiary Hearing on Motion to
+Quash ........................................................ 13
+
+D.
+
+Trial Court Judgment, denying the
+Motion to Quash ....................................... 17
+
+E.
+
+Certification of Interlocutory Appeal ....... 18
+
+F.
+
+Supreme Court of Virginia Appeal .......... 19
+
+v
+REASONS FOR GRANTING THE WRIT ............... 22
+I.
+
+This Court clearly has jurisdiction,
+unless it determines that the
+November 30, 2020, judgment, which
+employed
+language
+historically
+construed as being an adverse
+summary adjudication on the merits,
+is no longer such due to section 'D' of
+Va. Code Â§8.01-670.1, enacted July 1,
+2020. That is not clearly the case, so
+this Petition is filed .................................. 22
+A.
+
+This Court has jurisdiction
+over final judgments of a
+state's highest court on
+discrete federal questions,
+even if actions are continuing
+against the Petitioner and
+others on state law claims .............. 22
+
+B.
+
+Virginia case law to date has
+treated denial of a Petition For
+Appeal by the Supreme Court
+of Virginia as a summary
+adjudication on the merits ............. 25
+
+C.
+
+Expansion
+of
+the
+civil
+jurisdiction of the Court of
+Appeals of Virginia effective
+January 1, 2022 ............................. 26
+
+D.
+
+Effects (or not) of Va. Code
+Â§8.01-670.1(D) on whether the
+November 30, 2020, judgment
+of the Supreme Court of
+Virginia is now a 'final' order ....... 27
+
+vi
+II.
+
+The November 30, 2020, judgment of
+the Supreme Court of Virginia
+represents an unwarranted and
+dangerous expansion of specific
+personal jurisdiction and conflicts
+with several reported decisions of
+this Court. S. Ct. Rule 10 supports
+accepting this Petition For A Writ of
+Certiorari .................................................. 32
+
+III.
+
+The November 30, 2020, judgment of
+the Virginia Supreme Court, left in
+place on February 5, 2021, was
+wrong. Law from other states shows
+that ............................................................ 35
+
+IV.
+
+This case presents an excellent
+opportunity for this Court to clarify,
+nationally, the permissible scope of
+specific personal jurisdiction, in the
+context of an alleged guarantor, and
+advance Virginia law ................................ 36
+
+CONCLUSION ......................................................... 37
+APPENDIX:
+Order of
+The Supreme Court of Virginia
+Re: Refusing the Petition for Appeal
+entered November 30, 2020 ..................... 1a
+Certification of Interlocutory Appeal of
+The Circuit Court for Arlington County
+entered August 14, 2020........................... 2a
+
+vii
+Order of
+The Circuit Court for Arlington County
+Re: Denying Defendant's Motion to Quash
+Service and to Dismiss for Lack of Personal
+Jurisdiction by Special Appearance
+entered July 14, 2020 ............................... 5a
+Order of
+The Supreme Court of Virginia
+Re: Denying Petition for Rehearing
+entered February 5, 2021 ......................... 7a
+U.S. CONST. amend. XIV, Â§ 1 ............................... 8a
+Va. Code Â§ 8.01-328.1 .......................................... 9a
+Va. Code Â§ 8.01-670.1 ........................................ 12a
+28 U.S.C. Â§ 1257(a) ............................................ 15a
+Complaint,
+With Exhibits,
+filed March 27, 2019 ............................... 16a
+Affidavit of C. Al Buis
+dated February 29, 2020 ........................ 66a
+Excerpts of Transcript of Motion Hearing before
+The Honorable William T. Newman, Jr.
+on June 26, 2020 ..................................... 69a
+
+viii
+
+Example Output 4:
+I. This Court clearly has jurisdiction, unless it determines that the November 30, 2020, judgment, which employed language historically construed as being an adverse summary adjudication on the merits, is no longer such due to section 'D' of Va. Code Â§8.01-670.1, enacted July 1, 2020. That is not clearly the case, so this Petition is filed.
+	A. This Court has jurisdiction over final judgments of a state's highest court on discrete federal questions, even if actions are continuing against the Petitioner and others on state law claims.
+
+	B. Virginia case law to date has treated denial of a Petition For Appeal by the Supreme Court of Virginia as a summary adjudication on the merits
+
+	C. Expansion of the civil jurisdiction of the Court of Appeals of Virginia effective January 1, 2022.
+
+	D. Effects (or not) of Va. Code Â§8.01-670.1(D) on whether the November 30, 2020, judgment of the Supreme Court of Virginia is now a 'final' order.
+
+II. The November 30, 2020, judgment of the Supreme Court of Virginia represents an unwarranted and dangerous expansion of specific personal jurisdiction and conflicts with several reported decisions of this Court. S. Ct. Rule 10 supports accepting this Petition For A Writ of Certiorari.
+
+III. The November 30, 2020, judgment of the Virginia Supreme Court, left in place on February 5, 2021, was wrong. Law from other states shows that.
+
+IV. This case presents an excellent opportunity for this Court to clarify, nationally, the permissible scope of specific personal jurisdiction, in the context of an alleged guarantor, and advance Virginia law.
+
+Example Input 5:
+TABLE OF CONTENTS
+Page
+TABLE OF AUTHORITIES ...................................... iv
+INTRODUCTION ....................................................... 1
+STATEMENT ............................................................. 3
+I.
+
+Section 304's Limit on the Repayment of
+Candidate Loans. ................................................. 3
+
+II. Senator Cruz's 2018 Loans. ................................. 5
+REASONS FOR SUMMARY AFFIRMANCE OR
+DISMISSAL ................................................................ 5
+I.
+
+The District Court Correctly Held that Appellees Have Standing. ............................................. 6
+A. Appellees' Injuries Are Traceable to
+BCRA Section 304. ......................................... 6
+B. Appellees' Unpaid Loan, whether 'Self-Inflicted' or Not, Is an Injury-In-Fact. ............ 18
+
+II. The District Court Correctly Held that the
+Loan-Repayment Limit Is Unconstitutional. .. 25
+A. Because the Loan-Repayment Limit
+Burdens Core Political Speech, It Is
+Subject to Strict Scrutiny. ............................ 25
+B. The Loan-Repayment Limit Fails even
+'Closely-Drawn' Scrutiny Because It
+Does Not Further any Anti-Corruption
+Interest.......................................................... 29
+C. The Loan-Repayment Limit Is Not
+Sufficiently Tailored. .................................... 37
+CONCLUSION ......................................................... 38
+
+iv
+
+Example Output 5:
+I. The District Court Correctly Held that Appellees Have Standing.
+	A. Appellees' Injuries Are Traceable to BCRA Section 304.
+	B. Appellees' Unpaid Loan, whether 'Self-Inflicted' or Not, Is an Injury-In-Fact.
+
+II. The District Court Correctly Held that the Loan-Repayment Limit Is Unconstitutional.
+	A. Because the Loan-Repayment Limit Burdens Core Political Speech, It Is Subject to Strict Scrutiny.
+	B. The Loan-Repayment Limit Fails even 'Closely-Drawn' Scrutiny Because It Does Not Further any Anti-Corruption Interest.
+	C. The Loan-Repayment Limit Is Not Sufficiently Tailored.
+
+Example Input 6:
+TABLE OF CONTENTS
+
+Page
+A. Appellees lack Article III standing ................................. 2
+B. The loan-repayment limit complies with the First
+Amendment ........................................................................ 8
+Conclusion ................................................................................... 12
+
+Example Output 6:
+A. Appellees lack Article III standing.
+B. The loan-repayment limit complies with the First Amendment.
+
+Example Input 7:
+TABLE OF CONTENTS
+TABLE OF AUTHORITIES ................................... iii
+INTEREST OF AMICUS CURIAE ..........................1
+SUMMARY OF ARGUMENT...................................2
+ARGUMENT .............................................................5
+I. The Third Circuit's misguided application of
+forum non conveniens shows that courts
+lack clear guidance on the application of
+this doctrine ..........................................................5
+A. Courts lack a clear framework to
+evaluate evidence of corruption in foreign
+courts, especially in the Latin American
+context. ..............................................................5
+B. The Third Circuit disregarded a proven,
+ongoing pattern of judicial corruption in
+Peru ...................................................................6
+1. The justice sector is rife with quid pro
+quo corruption ............................................11
+2. The lack of judicial independence is
+acute when peasants and indigenous
+peoples confront mining interests .............12
+II. Disregarding Peru's official recognition of
+systemic
+corruption
+undermines
+international comity and encourages
+defendants' forum shopping ...............................16
+
+ii
+A. Certiorari should be granted to ensure
+that comity is given to foreign-state
+efforts to bolster the rule of law and fight
+corruption........................................................17
+B. Certiorari
+should
+be
+granted
+to
+discourage reverse forum shopping by
+U.S.-incorporated entities and to ensure
+effective regulation .........................................18
+CONCLUSION ........................................................20
+
+iii
+
+Example Output 7:
+I. The Third Circuit's misguided application of forum non conveniens shows that courts lack clear guidance on the application of this doctrine.
+	A. Courts lack a clear framework to evaluate evidence of corruption in foreign courts, especially in the Latin American context.
+	B. The Third Circuit disregarded a proven, ongoing pattern of judicial corruption in Peru.
+		1. The justice sector is rife with quid pro quo corruption.
+		2. The lack of judicial independence is acute when peasants and indigenous peoples confront mining interests.
+
+II. Disregarding Peru's official recognition of systemic corruption undermines international comity and encourages defendants' forum shopping.
+	A. Certiorari should be granted to ensure that comity is given to foreign-state efforts to bolster the rule of law and fight corruption.
+	B. Certiorari should be granted to discourage reverse forum shopping by U.S.-incorporated entities and to ensure effective regulation.
+
+Example Input 8:
+TABLE OF CONTENTS
+TABLE OF AUTHORITIES. . . . . . . . . . . . . . . . . . . iii
+INTEREST OF AMICI CURIAE . . . . . . . . . . . . . . . . 1
+INTRODUCTION AND SUMMARY
+OF ARGUMENT . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+ARGUMENT . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+I.
+
+STUDENT AMICI HAVE CHALLENGED A
+VARIETY OF UNCONSTITUTIONAL
+CAMPUS POLICIES ACROSS THE
+NATION. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+A. Unconstitutional speech zones and
+permitting policies may only generate
+nominal damages rather than out-ofpocket costs that can be alleged or
+recovered as damages . . . . . . . . . . . . . . . . 6
+B. Some permit requirements also
+necessitate payment of a âsecurity feeâ by
+the student group hosting an event . . . . . 9
+C. Unfettered discretion, leading to
+constitutionally prohibited viewpoint
+discrimination, is a common theme in
+Student Amici challenges . . . . . . . . . . . . 10
+
+II.
+
+REMEDIES FOR NOMINAL DAMAGES
+ARE IMPORTANT TO FACILITATE
+REVISION OF UNCONSTITUTIONAL
+POLICIES ON CAMPUS AND DETER
+FUTURE VIOLATIONS . . . . . . . . . . . . . . . . 13
+
+ii
+A. Nominal damages confer prevailing party
+status entitling the plaintiff to attorney
+feesâa powerful remedy to deter future
+violations . . . . . . . . . . . . . . . . . . . . . . . . . 14
+B. Remedies for completed constitutional
+violations expedite lasting policy changes
+that ensure free expression in the
+future, regardless of the type of amount of
+damage . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+C. Successful litigation may trigger
+legislative changes that facilitate free
+expression in the future, regardless of the
+type of amount of damages . . . . . . . . . . 17
+CONCLUSION . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+
+iii
+
+Example Output 8:
+I. STUDENT AMICI HAVE CHALLENGED A VARIETY OF UNCONSTITUTIONAL CAMPUS POLICIES ACROSS THE NATION.
+	A. Unconstitutional speech zones and permitting policies may only generate nominal damages rather than out-ofpocket costs that can be alleged or recovered as damages.
+	B. Some permit requirements also necessitate payment of a 'security fee' by the student group hosting an event.
+	C. Unfettered discretion, leading to constitutionally prohibited viewpoint discrimination, is a common theme in Student Amici challenges.
+
+II. REMEDIES FOR NOMINAL DAMAGES ARE IMPORTANT TO FACILITATE REVISION OF UNCONSTITUTIONAL POLICIES ON CAMPUS AND DETER FUTURE VIOLATIONS.
+	A. Nominal damages confer prevailing party status entitling the plaintiff to attorney fees; a powerful remedy to deter future violations.
+	B. Remedies for completed constitutional violations expedite lasting policy changes that ensure free expression in the future, regardless of the type of amount of damage.
+	C. Successful litigation may trigger legislative changes that facilitate free expression in the future, regardless of the type of amount of damages.
+
+Example Input 9:
+TABLE OF CONTENTS
+INTRODUCTION ....................................................... 1
+I.
+
+This Court should correct the
+misapplication of Wyatt v. Cole by
+the lower courts and resolve the
+conflict between the Third Circuit
+and several other Circuit Courts. .............. 2
+
+II.
+
+This case presents questions of
+national importance. ................................... 5
+
+III.
+
+This case is an excellent vehicle to
+resolve the questions presented. ................ 7
+
+CONCLUSION ............................................................ 8
+
+ii
+
+Example Output 9:
+I. This Court should correct the misapplication of Wyatt v. Cole by the lower courts and resolve the conflict between the Third Circuit and several other Circuit Courts.
+
+II. This case presents questions of national importance.
+
+III. This case is an excellent vehicle to resolve the questions presented.
+Example Input 10:
+TABLE OF CONTENTS
+Page
+QUESTIONS PRESENTED ............................................ i
+TABLE OF AUTHORITIES ........................................... v
+OPINIONS BELOW ........................................................... 1
+JURISDICTION .................................................................. 1
+CONSTITUTIONAL PROVISION INVOLVED ............ 2
+INTRODUCTION ............................................................... 2
+STATEMENT ...................................................................... 5
+A. The Lake Point Project ........................................ 5
+B. Ms. Hurchalla's Concerns About The
+Lake Point Project ................................................ 6
+C. County Staff's Finding That Lake
+Point Violated County Codes .............................. 9
+D. Lake Point's Suits Against The County
+And Ms. Hurchalla .............................................. 11
+1.
+
+Trial court proceedings ............................... 11
+
+2.
+
+Appellate proceedings ................................. 12
+
+REASONS FOR GRANTING THE PETITION ........... 14
+I.
+
+THE FIRST AMENDMENT PROTECTS MS.
+HURCHALLA'S STATEMENT BECAUSE,
+READ IN CONTEXT, IT WAS TRUE OR
+UNVERIFIABLE AND SHE BELIEVED It .................. 14
+A. The
+Court
+Below
+Erroneously
+Interpreted Ms. Hurchalla's Statement
+Without Accounting For Its Context .............. 16
+
+(iii)
+
+iv
+TABLE OF CONTENTS'Continued
+Page
+B. The Court Below Erroneously Deemed
+Ms. Hurchalla's Statement To Be A
+Verifiable Factual Statement............................ 20
+C. The
+Court
+Below
+Incorrectly
+Disregarded The Evidence That Ms.
+Hurchalla Subjectively Believed Her
+Statement To Be True ........................................ 25
+II. THE FIRST AMENDMENT PROTECTS MS.
+HURCHALLA'S STATEMENT BECAUSE IT HAD
+NO CAUSAL CONNECTION TO THE COUNTY'S
+ALLEGED CONTRACT BREACHES ............................. 27
+III. THE QUESTION PRESENTED IS IMPORTANT ........... 30
+CONCLUSION .................................................................. 33
+APPENDIX A: Opinion of the District Court
+of Appeal of the State of Florida Fourth
+District, dated June 19, 2019..................................... 1a
+APPENDIX B: Order of the District Court of
+Appeal of the State of Florida, dated September 6, 2019 ........................................................... 19a
+APPENDIX C: Order of the Supreme Court of
+Florida denying petition for review, dated
+April 13, 2020 ............................................................ 21a
+APPENDIX D: Final Judgment of the Nineteenth Judicial Circuit Court in and for Martin County, Florida, dated March 7, 2018 ............... 23a
+APPENDIX E: Jury Verdict Form ............................ 25a
+APPENDIX F: Email dated January 4, 2013 ............ 27a
+
+v
+TABLE OF AUTHORITIES
+CASES
+Page(s)
+Air Wisconsin Airlines Corp. v. Hoeper, 571
+U.S. 237 (2014) ...................................................... 14, 28
+Aldoupolis v. Globe Newspaper Co., 500
+N.E.2d 794 (Mass. 1986) ............................................ 24
+Ballard v. Wagner, 877 A.2d 1083 (Me. 2005) ............... 24
+Bose Corp. v. Consumers Union of United
+States, Inc., 466 U.S. 486 (1984)............ 13, 23, 25-27, 32
+Briggs v. Ohio Elections Commission, 61 F.3d
+487 (6th Cir. 1995)....................................................... 23
+Brokers' Choice of America, Inc. v. NBC
+Universal, Inc., 861 F.3d 1081 (10th Cir.
+2017) ............................................................................. 21
+Campanelli v. Regents of University of
+California, 51 Cal. Rptr. 2d 891 (App. 1996) .......... 24
+Campbell v. Citizens for an Honest
+Government, Inc., 255 F.3d 560 (8th Cir.
+2001) ............................................................................. 23
+Celle v. Filipino Reporter Enterprises Inc., 209
+F.3d 163 (2d Cir. 2000) ............................................... 26
+Dunn v. Air Line Pilots Ass'n, 193 F.3d 1185
+(11th Cir. 1999)............................................................ 26
+FEC v. Wisconsin Right to Life, Inc., 551 U.S.
+449 (2007) ..................................................................... 25
+Gardner v. Martino, 563 F.3d 981 (9th Cir.
+2009) ............................................................................. 21
+Garrison v. Louisiana, 379 U.S. 64 (1964) ..................... 15
+
+vi
+TABLE OF AUTHORITIES'Continued
+Page(s)
+Gertz v. Robert Welch, Inc., 418 U.S. 323 (1974) ........... 15
+Gilbrook v. City of Westminster, 177 F.3d 839
+(9th Cir. 1999).............................................................. 23
+Helstoki v. Meanor, 442 U.S. 500 (1979) ........................ 32
+Hogan v. Winder, 762 F.3d 1096 (10th Cir.
+2014) ............................................................................. 21
+Hustler Magazine, Inc. v. Falwell, 485 U.S. 46
+(1988) ............................................................................ 32
+Jolliff v. NLRB, 513 F.3d 600 (6th Cir. 2008)................ 17
+Kassel v. Gannett Co., 875 F.2d 935 (1st Cir.
+1989) ............................................................................. 29
+Lapkoff v. Wilks, 969 F.2d 78 (4th Cir. 1992) ................ 17
+Lee v. Bankers Trust Co., 166 F.3d 540 (1st Cir.
+1999) ............................................................................. 17
+Levan v. Capital Cities/ABC, Inc., 190 F.3d
+1230 (11th Cir. 1999)................................................... 17
+Levinskyâs, Inc. v. Wal-Mart Stores, Inc., 127
+F.3d 122 (1st Cir. 1997) .............................................. 26
+Manzari v. Associated Newspapers Ltd., 830
+F.3d 881 (9th Cir. 2016) ............................................. 26
+Masson v. New Yorker Magazine, Inc., 501
+U.S. 496 (1991) .................................................15, 26-27
+McCabe v. Rattiner, 814 F.2d 839 (1st Cir.
+1987) ............................................................................. 24
+McClure v. American Family Mutual
+Insurance Co., 223 F.3d 845 (8th Cir. 2000) ........... 21
+
+vii
+TABLE OF AUTHORITIESâContinued
+Page(s)
+McDonald v. Smith, 472 U.S. 479 (1985)........................ 15
+Milkovich v. Lorain Journal Co., 497 U.S. 1
+(1990) .................................................... 14, 20-21, 24-25
+New York Times Co. v. Sullivan, 376 U.S. 254
+(1964) ...................................................................... 12, 15
+Phantom
+Touring,
+Inc.
+v.
+Affiliated
+Publications, 953 F.2d 724 (1st Cir. 1992) ........ 21, 23
+Philadelphia Newspapers, Inc. v. Hepps, 475
+U.S. 767 (1986) ...................................................... 21, 25
+Snyder v. Phelps, 562 U.S. 443 (2011) ............................ 21
+St. Amant v. Thompson, 390 U.S. 727 (1968) ................ 15
+Veilleux v. National Broadcasting Co., 206
+F.3d 92 (1st Cir. 2000) ................................................ 23
+Wynn v. Smith, 16 P.3d 424 (Nev. 2001) ........................ 24
+Yetman v. English, 811 P.2d 323 (Ariz. 1991) ............... 24
+STATUTORY PROVISIONS
+28 U.S.C. Â§ 1257 ................................................................... 2
+Fla. Stat. Â§ 163.01 ................................................................ 6
+OTHER AUTHORITIES
+Document, Merriam-Webster Dictionary, https://
+www.merriam-webster.com/dictionary/
+document (visited Sept. 10, 2020)............................. 22
+
+viii
+
+Example Output 10:
+I. THE FIRST AMENDMENT PROTECTS MS. HURCHALLA'S STATEMENT BECAUSE, READ IN CONTEXT, IT WAS TRUE OR UNVERIFIABLE AND SHE BELIEVED It.
+	A. The Court Below Erroneously Interpreted Ms. Hurchalla's Statement Without Accounting For Its Context.
+	B. The Court Below Erroneously Deemed Ms. Hurchalla's Statement To Be A Verifiable Factual Statement.
+	C. The Court Below Incorrectly Disregarded The Evidence That Ms. Hurchalla Subjectively Believed Her Statement To Be True.
+
+II. THE FIRST AMENDMENT PROTECTS MS. HURCHALLA'S STATEMENT BECAUSE IT HAD NO CAUSAL CONNECTION TO THE COUNTY'S ALLEGED CONTRACT BREACHES.
+
+III. THE QUESTION PRESENTED IS IMPORTANT.
+<Examples End>
+
+Following the formatting and logic for the example outputs, extract the explicitly stated arguments from the following table of contents. Return only the arguments or 'None' if there are none. {text}

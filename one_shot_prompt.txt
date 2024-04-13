@@ -1,0 +1,60 @@
+Consider the following example inputs and outputs for how to extract arguments from a table of contents from a legal brief. 
+Instructions for a text extraction task will follow after the examples.
+<Examples Start>
+<Example Input>
+TABLE OF CONTENTS
+TABLE OF AUTHORITIES 
+INTEREST OF AMICUS CURIAE 
+SUMMARY OF ARGUMENT
+ARGUMENT
+I. The Third Circuit's misguided application of
+forum non conveniens shows that courts
+lack clear guidance on the application of
+this doctrine
+A. Courts lack a clear framework to
+evaluate evidence of corruption in foreign
+courts, especially in the Latin American
+context.
+B. The Third Circuit disregarded a proven,
+ongoing pattern of judicial corruption in
+Peru
+1. The justice sector is rife with quid pro
+quo corruption
+2. The lack of judicial independence is
+acute when peasants and indigenous
+peoples confront mining interests
+II. Disregarding Peru's official recognition of
+systemic
+corruption
+undermines
+international comity and encourages
+defendants' forum shopping
+A. Certiorari should be granted to ensure
+that comity is given to foreign-state
+efforts to bolster the rule of law and fight
+corruption
+B. Certiorari
+should
+be
+granted
+to
+discourage reverse forum shopping by
+U.S.-incorporated entities and to ensure
+effective regulation
+
+<Example Output>
+I. The Third Circuit's misguided application of forum non conveniens shows that courts lack clear guidance on the application of this doctrine.
+	A. Courts lack a clear framework to evaluate evidence of corruption in foreign courts, especially in the Latin American context.
+	B. The Third Circuit disregarded a proven, ongoing pattern of judicial corruption in Peru.
+		1. The justice sector is rife with quid pro quo corruption.
+		2. The lack of judicial independence is acute when peasants and indigenous peoples confront mining interests.
+
+II. Disregarding Peru's official recognition of systemic corruption undermines international comity and encourages defendants' forum shopping.
+	A. Certiorari should be granted to ensure that comity is given to foreign-state efforts to bolster the rule of law and fight corruption.
+	B. Certiorari should be granted to discourage reverse forum shopping by U.S.-incorporated entities and to ensure effective regulation.
+
+<Examples End>
+
+Following the formatting and logic for the example outputs, including the newline and indentation structure, extract the explicitly stated arguments from the following table of contents. Try to extract all of the nested arguments that exist in the input and nothing else.
+
+Return only the arguments or 'None' if there are none. {text}
