@@ -332,3 +332,5 @@ cython_debug/
 
 # Scraped PDFs
 scotus_scraper/brief_pdfs
+scotus_scraper/fed_brief_pdfs
+scotus_scraper/test_pdf.pdf
