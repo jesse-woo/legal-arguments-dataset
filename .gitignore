@@ -334,7 +334,3 @@ cython_debug/
 scotus_scraper/brief_pdfs
 scotus_scraper/fed_brief_pdfs
 scotus_scraper/test_pdf.pdf
-
-# Cited Cases Directory
-caselaw_scrape/court_listener_token.txt
-caselaw_scrape/dataset_complete_08222024.jsonl
