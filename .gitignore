@@ -339,3 +339,7 @@ scotus_scraper/osg_briefs
 # Cited Cases Directory
 caselaw_scrape/court_listener_token.txt
 caselaw_scrape/dataset_complete_08222024.jsonl
+caselaw_scrape/dataset_complete_01072025.jsonl
+caselaw_scrape/dataset_complete_12232024.jsonl
+caselaw_scrape/retrieval_dataset.json
+caselaw_scrape/retrieval_dataset.jsonl
