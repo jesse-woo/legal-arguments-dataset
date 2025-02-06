@@ -1,5 +1,5 @@
 # legal-arguments-dataset
-## Elizabeth Kim, Gregory Hunter, Jesse Woo, Lawrence Leung, Nikhil Ghosh
+## Jesse Woo, Fateme Hashemi-Chaleshtori, Ana Marasovic, Kenneth Marino
 For Columbia Machine Learning Datasets Project
 
 Project completed for the Machine Learning Datasets course at Columbia University with Kenneth Marino
