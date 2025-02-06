@@ -343,3 +343,11 @@ caselaw_scrape/dataset_complete_01072025.jsonl
 caselaw_scrape/dataset_complete_12232024.jsonl
 caselaw_scrape/retrieval_dataset.json
 caselaw_scrape/retrieval_dataset.jsonl
+caselaw_scrape/top2vec_topics.csv
+caselaw_scrape/dataset_complete_01302025.jsonl
+caselaw_scrape/bertopic_topics.csv
+
+# Data Inspection
+data_inspection/examples-argument-completion-jw.json
+data_inspection/examples-jw.json
+data_inspection/fewshot-llama-70b_few_shot_generations.json
